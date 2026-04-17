@@ -149,7 +149,7 @@
 - Flags: MODERATOR
   Commands:
   - kick
-  - respawn
+#  - respawn – Cheeburbr
 
 - Flags: HOST
   Commands:

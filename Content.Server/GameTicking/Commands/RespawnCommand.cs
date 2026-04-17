@@ -67,11 +67,13 @@ using Content.Server.Administration;
 using Content.Server.Mind;
 using Content.Shared.Players;
 using Robust.Server.Player;
+using Content.Shared.Administration; // Cheeburbr. Прибирання обмежень
 using Robust.Shared.Console;
 using Robust.Shared.Network;
 
 namespace Content.Server.GameTicking.Commands
 {
+    [AnyCommand] // Cheeburbr. Прибирання обмежень
     sealed class RespawnCommand : LocalizedEntityCommands
     {
         [Dependency] private readonly IPlayerManager _player = default!;
