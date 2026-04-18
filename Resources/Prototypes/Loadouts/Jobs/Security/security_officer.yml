@@ -89,12 +89,12 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobWarden
-      time: 3600 #1 hrs
+      time: 3600 #1 hrs ориг. 6г
   - !type:JobRequirementLoadoutEffect
     requirement:
       !type:DepartmentTimeRequirement
       department: Security
-      time: 3600 # 1 hrs
+      time: 3600 # 1 hrs ориг. 6г
 
 - type: loadoutEffectGroup
   id: VeteranOfficer
@@ -103,7 +103,7 @@
     requirement:
       !type:DepartmentTimeRequirement
       department: Security
-      time: 36000 # 10 hrs
+      time: 36000 # 10 hrs ориг. 100г
 
 #Security Star
 - type: loadoutEffectGroup

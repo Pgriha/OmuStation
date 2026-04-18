@@ -83,7 +83,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobChiefEngineer
-      time: 7200 #2 hrs
+      time: 7200 #2 hrs ориг. 20г
 
 # Goobstation - For Ensembles
 - type: loadoutEffectGroup

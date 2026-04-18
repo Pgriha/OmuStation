@@ -85,17 +85,17 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobChemist
-      time: 3600 #1 hrs
+      time: 3600 #1 hrs ориг. 100г
   - !type:JobRequirementLoadoutEffect
     requirement:
       !type:RoleTimeRequirement
       role: JobMedicalDoctor
-      time: 3600 #1 hrs
+      time: 3600 #1 hrs ориг. 6г
   - !type:JobRequirementLoadoutEffect
     requirement:
       !type:DepartmentTimeRequirement
       department: Medical
-      time: 21600 # 6 hrs
+      time: 21600 # 6 hrs ориг. 60г
 
 # Other Timers
 
@@ -106,7 +106,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobMedicalDoctor
-      time: 10800 #3 hrs
+      time: 10800 #3 hrs ориг. 30г
 
 # Head
 

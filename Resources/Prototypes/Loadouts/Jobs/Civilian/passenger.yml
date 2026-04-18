@@ -90,7 +90,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobPassenger
-      time: 3600 #1 hrs, silly reward for people who play passenger a lot
+      time: 3600 #1 hrs, silly reward for people who play passenger a lot ориг. 10г
 
 # Head of Greytide (for grey mantle)
 - type: loadoutEffectGroup
@@ -100,7 +100,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobPassenger
-      time: 7200 #2 hrs, fun mantle for the most experienced greytiders
+      time: 7200 #2 hrs, fun mantle for the most experienced greytiders ориг. 20г
 
 # Face
 - type: loadout
