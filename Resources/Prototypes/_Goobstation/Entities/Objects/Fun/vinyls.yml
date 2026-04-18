@@ -143,36 +143,6 @@
       path: /Audio/_Goobstation/RadioStation/music/goonstation/distant_star.ogg
 
 - type: entity
-  name: "vinyl disk: banana"
-  description: A vinyl disk contains the clowns favorite music!
-  id: VinylDiskBanana
-  parent: BaseVinylDisk
-  components:
-  - type: Sprite
-    state: banana-vinyl-disk
-  - type: Slippery
-  - type: StepTrigger
-    triggerGroups:
-      types:
-      - SlipEntity
-  - type: CollisionWake
-    enabled: false
-  - type: Physics
-    bodyType: Dynamic
-  - type: Fixtures
-    fixtures:
-      slips:
-        shape:
-          !type:PhysShapeAabb
-          bounds: "-0.4,-0.3,0.4,0.3"
-        hard: false
-        layer:
-        - SlipLayer
-  - type: Vinyl
-    song:
-      path: /Audio/_Goobstation/RadioStation/music/goonstation/honkmas.ogg
-
-- type: entity
   name: "vinyl disk: atlas"
   description: A vinyl disk containing music, has a disclaimer on the side warning that the disk is not edible.
   id: VinylDiskCarrot
@@ -261,18 +231,6 @@
   - type: Vinyl
     song:
       path: /Audio/_Goobstation/RadioStation/music/goonstation/groovy.ogg
-
-- type: entity
-  name: "vinyl disk: fart elise"
-  id: VinylDiskLightRed
-  description: it's not pink, it's a lightish red.
-  parent: BaseVinylDisk
-  components:
-  - type: Sprite
-    state: lightishred-vinyl-disk
-  - type: Vinyl
-    song:
-      path: /Audio/_Goobstation/RadioStation/music/goonstation/fart_elise.ogg
 
 - type: entity
   name: "vinyl disk: dance on a space volcano"
@@ -374,17 +332,6 @@
       path: /Audio/_Goobstation/RadioStation/music/PMMUSIC/Romeo-and-Juliet-PM-Music.ogg
 
 - type: entity
-  name: "vinyl disk: Russian Dance"
-  id: VinylDiskRussian
-  parent: BaseVinylDisk
-  components:
-  - type: Sprite
-    state: white-vinyl-disk
-  - type: Vinyl
-    song:
-      path: /Audio/_Goobstation/RadioStation/music/PMMUSIC/Russian-Dance-PM-Music.ogg
-
-- type: entity
   name: "vinyl disk: The Flower Duet"
   id: VinylDiskFlowerDuet
   parent: BaseVinylDisk
@@ -394,17 +341,6 @@
   - type: Vinyl
     song:
       path: /Audio/_Goobstation/RadioStation/music/PMMUSIC/The-Flower-Duet-PM-Music.ogg
-
-- type: entity
-  name: "vinyl disk: Winter Vivaldi"
-  id: VinylDiskWinterVivaldi
-  parent: BaseVinylDisk
-  components:
-  - type: Sprite
-    state: white-vinyl-disk
-  - type: Vinyl
-    song:
-      path: /Audio/_Goobstation/RadioStation/music/PMMUSIC/Winter-Vivaldi-PM-Music.ogg
 
 - type: entity
   name: "vinyl disk: Bach Cello"
