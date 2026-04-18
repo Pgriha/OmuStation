@@ -87,7 +87,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobHeadOfSecurity
-      time: 72000 #20 hrs
+      time: 14400 # Cheeburbr. 4 години, 20 в оригіналі
 
 # Goobstation - For Ensembles
 - type: loadoutEffectGroup
@@ -97,7 +97,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobHeadOfSecurity
-      time: 360000 # 100 hrs
+      time: 108000 # Cheeburbr. 30 годин, 100 в оригіналі
 
 # Jumpsuit
 - type: loadout

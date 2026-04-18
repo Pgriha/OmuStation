@@ -10,7 +10,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobBotanist
-      time: 72000 #20 hours
+      time: 7200 # Cheeburbr. 2 години, 20 в оригіналі
 
 - type: loadout
   id: BotanistBeret

@@ -16,12 +16,12 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobResearchDirector
-      time: 36000 # 10 hrs
+      time: 3600 # Cheeburbr. 1 година, 10 в оригіналі
   - !type:JobRequirementLoadoutEffect
     requirement:
       !type:RoleTimeRequirement
       role: JobBorg
-      time: 36000 # 10 hrs
+      time: 3600 # Cheeburbr. 1 година, 10 в оригіналі
 
 - type: loadout
   id: Bodycam
@@ -57,7 +57,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobStationAi
-      time: 180000 # 50 hrs
+      time: 18000 # Cheeburbr. 5 годин, 50 в оригіналі
   storage:
     back:
     - GoldenPersonalAI

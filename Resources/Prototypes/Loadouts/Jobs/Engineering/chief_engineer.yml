@@ -83,7 +83,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobChiefEngineer
-      time: 72000 #20 hrs
+      time: 21600 # Cheeburbr. 6 годин, 20 в оригіналі
 
 # Goobstation - For Ensembles
 - type: loadoutEffectGroup
@@ -93,7 +93,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobChiefEngineer
-      time: 360000 # 100 hrs
+      time: 108000 # Cheeburbr. 30 годин, 100 в оригіналі
 
 # Jumpsuit
 - type: loadout

@@ -83,7 +83,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobHeadOfPersonnel
-      time: 72000 #20 hrs
+      time: 21600 # Cheeburbr. 6 годин, 20 в оригіналі
 
 # Goobstation - For Ensembles
 - type: loadoutEffectGroup
@@ -93,7 +93,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobHeadOfPersonnel
-      time: 360000 # 100 hrs
+      time: 108000 # Cheeburbr. 30 годин, 100 в оригіналі
 
 # Professional HoP Time
 - type: loadoutEffectGroup
@@ -103,7 +103,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobHeadOfPersonnel
-      time: 54000 #15 hrs, special reward for HoP mains
+      time: 5400 # Cheeburbr. 1.5 години, 15 в оригіналі
 
 # Jumpsuit
 - type: loadout

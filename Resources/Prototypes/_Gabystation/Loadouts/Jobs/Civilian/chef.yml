@@ -5,7 +5,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobChef
-      time: 252000 # 70hr
+      time: 25200 # Cheeburbr. 7 годин, 70 в оригіналі
   storage:
     back:
     - GoldKitchenKnife
@@ -17,7 +17,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobChef
-      time: 252000 # 70hr
+      time: 25200 # Cheeburbr. 7 годин, 70 в оригіналі
   storage:
     back:
     - GoldButchCleaver

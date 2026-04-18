@@ -1547,7 +1547,7 @@
   loadouts:
   - ChiefMedicalOfficerBeret
   - CMOMedicalHeadMirror
-  - ChemistUshanka # Goobstation
+#  - ChemistUshanka # Goobstation – Cheeburbr
   - CMOVetBeret #Omu
 
 - type: loadoutGroup

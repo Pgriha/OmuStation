@@ -10,7 +10,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobChemist
-      time: 72000 #20 hours
+      time: 21600 # Cheeburbr. 6 годин, 20 в оригіналі
 
 - type: loadout
   id: ChemistUshanka

@@ -96,7 +96,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobJanitor
-      time: 187200 #52 hrs (1 hour per week for 1 year)
+      time: 18000 # Cheeburbr. 5.2 години, 52 в оригіналі
 
 # Head
 - type: loadout
