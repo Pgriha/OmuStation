@@ -28,22 +28,22 @@ chat-radio-message-wrap = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb
 chat-radio-message-wrap-bold = [color={$color}]{$channel} [bold]{$name}[/bold] {$verb}, "[/color][color={$languageColor}][font="{$fontType}" size={$fontSize}][bold]{$message}[/bold][/font][/color][color={$color}]"[/color]
 # Einstein Engines - Languages end
 
-examine-headset-default-channel = Use {$prefix} for the default channel ([color={$color}]{$channel}[/color]).
+examine-headset-default-channel = Використовуйте {$prefix} для каналу за замовченням ([color={$color}]{$channel}[/color]).
 
 chat-radio-common = Загальний
 chat-radio-centcom = ЦК
 chat-radio-command = Командний
-chat-radio-engineering = Інжененрний
+chat-radio-engineering = Інженерний
 chat-radio-medical = Медичний
 chat-radio-science = Науковий
 chat-radio-security = Безпека
 chat-radio-service = Сервіс
-chat-radio-supply = Карго
+chat-radio-supply = Постачання
 chat-radio-syndicate = Синдикат
 chat-radio-freelance = Фріланс
 
 # not headset but whatever
 chat-radio-handheld = Ручний
 chat-radio-binary = Бінарний
-chat-radio-xenoborg = Xenoborg
-chat-radio-mothership = Mothership
+chat-radio-xenoborg = Ксеноборги
+chat-radio-mothership = Матиринське Ядро

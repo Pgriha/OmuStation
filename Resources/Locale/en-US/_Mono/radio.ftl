@@ -1,2 +1,2 @@
 chat-radio-remnants = Залишки
-chat-radio-letoferol = Letoferol Chimera Hivemind
+chat-radio-letoferol = Розум Хімер
