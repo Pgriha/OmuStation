@@ -83,7 +83,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobResearchDirector
-      time: 72000 #20 hrs
+      time: 7200 #2 hrs orig 20h
 
 # Goobstation - For Ensembles
 - type: loadoutEffectGroup
