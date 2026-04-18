@@ -5,12 +5,12 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobChemist
-      time: 180000 #50 hours
+      time: 18000 # Cheeburbr. 5 годин, 50 в оригіналі
   - !type:JobRequirementLoadoutEffect
     requirement:
       !type:RoleTimeRequirement
       role: JobChiefMedicalOfficer
-      time: 360000 #100 hours
+      time: 108000 # Cheeburbr. 30 годин, 100 в оригіналі
 
 - type: loadout
   id: CMOVetLabCoat

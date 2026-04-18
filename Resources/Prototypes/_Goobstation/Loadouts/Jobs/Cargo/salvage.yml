@@ -15,7 +15,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobSalvageSpecialist
-      time: 72000 #20 hours
+      time: 14400 # Cheeburbr. 4 години, 20 в оригіналі
 
 - type: loadoutEffectGroup
   id: GrandMasterSalvageSpecialist
@@ -24,7 +24,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobSalvageSpecialist
-      time: 360000 # 100 hrs
+      time: 108000 # Cheeburbr. 30 годин, 100 в оригіналі
 - type: loadout
   id: MinerCloak
   effects:

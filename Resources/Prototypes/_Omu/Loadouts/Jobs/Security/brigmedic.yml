@@ -5,7 +5,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobBrigmedic
-      time: 90000 #25 hours
+      time: 18000 # Cheeburbr. 5 годин, 25 в оригіналі
 
 
 - type: loadout

@@ -22,7 +22,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobBlueshieldOfficer
-      time: 187200
+      time: 18000 # Cheeburbr. 5 годин, 52 в оригіналі
 
 # Goobstation - For Ensembles
 - type: loadoutEffectGroup
@@ -32,7 +32,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobBlueshieldOfficer
-      time: 360000 # 100 hrs
+      time: 108000 # Cheeburbr. 30 годин, 100 в оригіналі
 
 # Hats
 - type: loadout

@@ -984,7 +984,7 @@
   - BlueshieldOfficerHeadSwatHelmet
   - BlueshieldOfficerBeret
   - BlueshieldOfficerHeadCowboy
-  - BlueshieldOfficerGoidaHelmet
+#  - BlueshieldOfficerGoidaHelmet – Cheeburbr. Іді нахуй
   - BlueshieldOfficerBeretElite # Omustation
 
 - type: loadoutGroup
@@ -1331,7 +1331,7 @@
   loadouts:
   - MedicalBeret
   - SeniorPhysicianBeret
-  - ChemistUshanka # Da.
+#  - ChemistUshanka # Da. – Cheeburbr. Пізда.
   - ChemistryBeret # Starlight - OMU port
   - ChemistNurseHat # Starlight - OMU port
   - ChemistTruckersHat # Starlight - OMU port

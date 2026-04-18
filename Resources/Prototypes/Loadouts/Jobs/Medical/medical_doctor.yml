@@ -85,17 +85,17 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobChemist
-      time: 3600 #1 hrs orig 6h
+      time: 3600 # Cheeburbr. 1 година, 6 в оригіналі
   - !type:JobRequirementLoadoutEffect
     requirement:
       !type:RoleTimeRequirement
       role: JobMedicalDoctor
-      time: 3600 #1 hrs orig 6h
+      time: 3600 # Cheeburbr. 1 година, 6 в оригіналі
   - !type:JobRequirementLoadoutEffect
     requirement:
       !type:DepartmentTimeRequirement
       department: Medical
-      time: 21600 # 6 hrs orig 60h
+      time: 21600 # Cheeburbr. 6 годин, 60 в оригіналі
 
 # Other Timers
 
@@ -106,7 +106,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobMedicalDoctor
-      time: 10800 #3 hrs orig 30h
+      time: 10800 # Cheeburbr. 3 години, 30 в оригіналі
 
 # Head
 

@@ -90,7 +90,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobPassenger
-      time: 3600 #1 hrs, silly reward for people who play passenger a lot orig 10h
+      time: 3600 # Cheeburbr. 1 година, 10 в оригіналі
 
 # Head of Greytide (for grey mantle)
 - type: loadoutEffectGroup
@@ -100,7 +100,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobPassenger
-      time: 7200 #2 hrs, fun mantle for the most experienced greytiders orig 20h
+      time: 7200 # Cheeburbr. 2 години, 20 в оригіналі
 
 # Face
 - type: loadout

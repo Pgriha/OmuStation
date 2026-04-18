@@ -12,7 +12,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobBrigmedic
-      time: 54000 # 15 hrs
+      time: 5400 # Cheeburbr. 1.5 години, 15 в оригіналі
 # Senior Time
 - type: loadoutEffectGroup
   id: VeteranBrigmedic
@@ -21,7 +21,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobBrigmedic
-      time: 216000 # 60 hrs
+      time: 36000 # Cheeburbr. 10 годин, 60 в оригіналі
 
 - type: loadout
   id: BrigmedicJumpsuit

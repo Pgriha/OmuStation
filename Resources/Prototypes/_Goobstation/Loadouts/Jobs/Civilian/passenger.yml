@@ -6,7 +6,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobPassenger
-      time: 288000 # 80 hrs
+      time: 28000 # Cheeburbr. 8 годин, 80 в оригіналі
 
 # Quarterzip
 - type: loadout

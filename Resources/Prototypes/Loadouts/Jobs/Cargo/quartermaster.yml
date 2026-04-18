@@ -83,7 +83,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobQuartermaster
-      time: 7200 #2 hrs orig. 20h
+      time: 7200 # Cheeburbr. 2 години, 20 в оригіналі
 
 # Goobstation - For Ensembles
 - type: loadoutEffectGroup
@@ -93,7 +93,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobQuartermaster
-      time: 360000 # 100 hrs
+      time: 108000 # Cheeburbr. 30 годин, 100 в оригіналі
 
 # Jumpsuit
 - type: loadout
