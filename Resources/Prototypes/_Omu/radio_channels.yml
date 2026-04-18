@@ -1,6 +1,6 @@
 - type: radioChannel
   id: SolarianNavy
   name: chat-radio-solarian-navy
-  keycode: 'd'
+  keycode: 'д'
   color: "#454d31"
   longRange: true

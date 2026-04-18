@@ -1,1 +1,1 @@
-chat-radio-solarian-navy = Solarian Navy
+chat-radio-solarian-navy = Сонячний флот

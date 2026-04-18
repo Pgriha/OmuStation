@@ -102,7 +102,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobChemist
-      time: 54000 # 15 hrs
+      time: 5400 # 1.5 hrs ориг. 15г
 
 # Senior Time
 - type: loadoutEffectGroup
@@ -112,7 +112,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobChemist
-      time: 216000 # 60 hrs
+      time: 21600 # 6 hrs ориг. 60г
 
 # Star Time
 - type: loadoutEffectGroup
@@ -122,7 +122,7 @@
     requirement:
       !type:RoleTimeRequirement
       role: JobChemist
-      time: 360000 # 100 hrs
+      time: 36000 # 10 hrs ориг. 100г
 
 # Head
 - type: loadout
