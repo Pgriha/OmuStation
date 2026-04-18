@@ -38,7 +38,7 @@ chat-radio-medical = Медичний
 chat-radio-science = Науковий
 chat-radio-security = Безпека
 chat-radio-service = Сервіс
-chat-radio-supply = Постачання
+chat-radio-supply = Логістика
 chat-radio-syndicate = Синдикат
 chat-radio-freelance = Фріланс
 
