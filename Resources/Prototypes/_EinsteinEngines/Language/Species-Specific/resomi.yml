@@ -10,8 +10,8 @@
   isVisibleLanguage: true
   speech:
     color: "#4DBFD9"
-    fontId: Schoolbell
-    fontSize: 14
+#    fontId: Schoolbell – Cheeburbr
+#    fontSize: 14 – Cheeburbr
   obfuscation:
     !type:SyllableObfuscation
     minSyllables: 1

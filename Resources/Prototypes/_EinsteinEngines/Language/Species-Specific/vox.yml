@@ -10,8 +10,8 @@
   isVisibleLanguage: true
   speech:
     color: "#a489a0"
-    fontId: ChelseaMarket
-    fontSize: 12
+#    fontId: ChelseaMarket – Cheeburbr
+#    fontSize: 12 – Cheeburbr
   obfuscation:
     !type:SyllableObfuscation
     minSyllables: 1

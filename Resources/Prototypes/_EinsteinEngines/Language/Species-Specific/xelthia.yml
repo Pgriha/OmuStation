@@ -4,7 +4,7 @@
   isVisibleLanguage: true
   speech:
     color: "#65d9ff"
-    fontId: NovaFlat
+#    fontId: NovaFlat – Cheeburbr
   obfuscation:
     !type:SyllableObfuscation
     minSyllables: 1
