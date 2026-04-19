@@ -10,12 +10,12 @@ server_name = "Бззз Ому"
 hostname = "Cotton Cheeburbr Omu"
 desc = "Ммм. . . Ну типу так? Ви зрозуміли. Бавовняний сирбурбер.\nОмуємо, шановні."
 soft_max_players = 20
-defaultpreset = "Extended"
-fallbackpreset = "Extended"
+defaultpreset = "SecretPlusLow"
+fallbackpreset = "SecretPlusLow"
 maxcharacterslots = 50
 panic_bunker.enabled = false
 panic_bunker.enable_without_admins = false
-round_restart_time = 300
+round_restart_time = 600
 lobbyduration = 300
 role_timers = false
 role_whitelist = false
@@ -83,7 +83,6 @@ dataset = ""
 [ooc]
 #ООС під час раундів
 enable_during_round = true
-discord_channel_id = ""
 
 [control]
 #Більше віконок
@@ -113,7 +112,7 @@ enabled = false
 
 [net]
 #Технічне
-tickrate = 30
+tickrate = 20 # Ому лагуче. . .
 port = 1212
 bindto = "::,0.0.0.0"
 max_connections = 50
@@ -121,6 +120,7 @@ log_late_msg = false
 
 [hub]
 advertise = 0
+use_dynamic_hostname = false
 
 [infolinks]
 appeal = ""
