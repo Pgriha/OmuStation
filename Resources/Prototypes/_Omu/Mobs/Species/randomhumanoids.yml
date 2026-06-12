@@ -23,7 +23,6 @@
     - NamesResomiMale
     nameFormat: random-metadata-name-format-default # I dont know if this is the proper nameformat I should be using but it should work though so whatever
 
-
 - type: entity
   parent: MobXelthia
   id: MobXelthiaRandom

@@ -150,19 +150,6 @@
       shiveringHeatRegulation: 2000
       normalBodyTemperature: 261
       thermalRegulationTemperatureThreshold: 1
-#    - type: Stasis # Move this to a organ, Omu.
-#      enterStasisAction: ActionStasisEnter
-#      exitStasisAction: ActionStasisExit
-#      updateInterval: 1s
-#      healingPerUpdate:
-#        types:
-#          Heat: 2
-#          Cold: 2
-#        groups:
-#          Brute: 6
-#      bleedHealPerUpdate: 1.0
-#      critHealingModifier: 2.0
-#      stasisDamageReduction: 0.5
     - type: PseudoItem
       storedOffset: 20,0
       shape:
@@ -172,10 +159,12 @@
         - 4,4,5,0
         - 6,3,6,0
         - 7,1,7,0
-  # - type: CollectiveMind # Omu, kinda annoying dude
-  #  defaultChannel: Nexus
-  #  channels:
-  #  - Nexus
+    - type: CollectiveMind # Byrd - Let birds eat cake
+      defaultChannel: Nexus
+      channels:
+      - Nexus
+    - type: Preenable # Byrd
+      featherPrototype: AvaliFeather
 
 # Chirp!
 
