@@ -78,3 +78,20 @@
     - хрустять пальцями
     - хрустить своїми пальцями
     - хрустять своїми пальцями
+
+# Other Emotes
+- type: emote
+  id: Blink
+  name: chat-emote-name-blink
+  category: General
+  icon: _Omu/Interface/Emotes/blink.png #imp
+  chatMessages: ["chat-emote-msg-blink"]
+  chatTriggers:
+  - blink
+  - blinks
+  - blinked
+  - blinking # Omu
+  - кліпає # Cheeburbr. До кінця прототипу
+  - кліпають
+  - прокліпується
+  - прокліпуються
