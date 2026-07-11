@@ -16,6 +16,8 @@
     - yaps
     - yapping
     - yapped
+    - япає # Cheeburbr. До кінця прототипу
+    - япають
 
 - type: emote
   id: Squee # idk man i feel like it fits the sound
@@ -35,6 +37,8 @@
     - squees
     - squeeing
     - squeed
+    - попискує # Cheeburbr. До кінця прототипу
+    - попискують
 
 - type: emote
   id: Snort
@@ -54,6 +58,10 @@
     - snorts
     - snorting
     - snorted
+    - фиркає # Cheeburbr. До кінця прототипу
+    - фиркають
+    - пирхає
+    - пирхають
 
 - type: emote
   id: Gekker
@@ -73,3 +81,5 @@
     - gekkers
     - gekkering
     - gekkered
+    - скрекоче # Cheeburbr. До кінця прототипу
+    - скрекочуть

@@ -3,6 +3,7 @@
 [adminlogs]
 #Назва серверу у адмін нотатках
 server_name = "Бззз Ому"
+high_log_playtime = -1 # Прибирання зайвих повідомлень адміністрації
 
 ## Загальне-загальне
 [game]
@@ -20,6 +21,7 @@ lobbyduration = 300
 role_timers = false
 role_whitelist = false
 ipintel_enabled = false
+table_bonk = false
 
 [server]
 #Бр-бр-бр №2
@@ -32,6 +34,7 @@ time = 15
 
 [chat]
 motd = "Вжвжвжвж?"
+show_typing_indicator = true
 
 [admin]
 # Адмін приколи
@@ -63,6 +66,27 @@ emergency_dock_time = 300
 emergency_transit_time_min = 120
 emergency_transit_time_max = 240
 mass_limit = -1
+
+[lavaland]
+enabled = true
+
+[worldgen]
+enabled = true
+
+[traits]
+max_traits = 5
+default_points = 5
+
+[heightadjust]
+modifies_sprinting = false
+modifies_flight = false
+
+[voice]
+barks_enabled = true
+
+[lifeline]
+rejuvenate = true
+reset_mind = false
 
 [gateway]
 #Вимикає раундстарт спавн зайвих мап ваніли №2
@@ -100,8 +124,8 @@ loginlocal = true
 login_host_user = "Pgriha"
 
 [auth]
-#Під'єднання з лаунчерів
-mode = 1
+#Не треба пітвердження від Візардів
+mode = 0
 
 [log]
 #Логи
@@ -116,6 +140,8 @@ tickrate = 20 # Ому лагуче. . .
 port = 1212
 bindto = "::,0.0.0.0"
 max_connections = 50
+lidgren_log_warning = false
+lidgren_log_error = false
 log_late_msg = false
 
 [hub]
@@ -123,5 +149,10 @@ advertise = 0
 use_dynamic_hostname = false
 
 [infolinks]
+bug_report = "https://github.com/ProjectOmu/OmuStation/issues"
+discord = "https://discord.gg/omustation"
+github = "https://github.com/ProjectOmu/OmuStation"
+website = "https://projectomu.org/"
+wiki = "https://wiki.projectomu.org/"
 appeal = ""
 patreon = "https://savelife.in.ua/donate/#donate-army-card-once"
