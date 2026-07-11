@@ -15,6 +15,12 @@ public sealed class MothAccentSystem : EntitySystem
 {
     private static readonly Regex RegexLowerBuzz = new Regex("z{1,3}");
     private static readonly Regex RegexUpperBuzz = new Regex("Z{1,3}");
+    // Cheeburbr start. Локалізація
+    private static readonly Regex RegexLowerCyrillicBzhh = new Regex("ж{1,3}");
+    private static readonly Regex RegexUpperCyrillicBzhh = new Regex("Ж{1,3}");
+    private static readonly Regex RegexLowerCyrillicBzz = new Regex("з{1,3}");
+    private static readonly Regex RegexUpperCyrillicBzz = new Regex("З{1,3}");
+    // Cheeburbr end
 
     public override void Initialize()
     {
@@ -30,6 +36,16 @@ public sealed class MothAccentSystem : EntitySystem
         message = RegexLowerBuzz.Replace(message, "zzz");
         // buZZZ
         message = RegexUpperBuzz.Replace(message, "ZZZ");
+        // Cheeburbr start. Локалізація
+        // бжжж
+        message = RegexLowerCyrillicBzhh.Replace(message, "жжж");
+        // БЖЖЖ
+        message = RegexUpperCyrillicBzhh.Replace(message, "ЖЖЖ");
+        // бззз
+        message = RegexLowerCyrillicBzz.Replace(message, "ззз");
+        // БЗЗЗ
+        message = RegexUpperCyrillicBzz.Replace(message, "ЗЗЗ");
+        // Cheeburbr end
 
         args.Message = message;
     }
