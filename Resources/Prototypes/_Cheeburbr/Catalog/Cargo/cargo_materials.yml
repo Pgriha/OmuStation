@@ -1,0 +1,19 @@
+- type: cargoProduct
+  id: CheeburbrMaterialUranium
+  icon:
+    sprite: Objects/Materials/Sheets/other.rsi
+    state: uranium_3
+  product: CheeburbrCrateMaterialUranium
+  cost: 3000 # Вміст коштує 2600
+  category: cargoproduct-category-name-materials
+  group: market
+
+- type: cargoProduct
+  id: CheeburbrMaterialDiamond
+  icon:
+    sprite: Objects/Materials/materials.rsi
+    state: diamond
+  product: CheeburbrCrateMaterialDiamond
+  cost: 2500 # Вміст коштує 2000
+  category: cargoproduct-category-name-materials
+  group: market

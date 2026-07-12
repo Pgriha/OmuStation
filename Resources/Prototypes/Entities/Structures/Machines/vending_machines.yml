@@ -1882,6 +1882,7 @@
     - MiningMedical
     #- MiningDrone
     - MiningFishingSet # Omu
+    - MiningConcussiveGauntlets # Cheeburbr. MIU is so back
   - type: Wires # DeltaV: Use shop vendor wires layout
     layoutId: ShopVendor
   - type: AccessReader

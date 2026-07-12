@@ -152,15 +152,15 @@
 
 # SMES' in use
 
-- type: entity
+- type: entity # Cheeburbr. Баф до бафу 8 в оригіналі, 16 в Ому, 64 у нас
   parent: BaseSMES
   id: SMESBasic
-  suffix: Basic, 16MJ
+  suffix: Basic, 64MJ
   components:
   - type: Battery
      # Goobstation - SMES buff
-    maxCharge: 16000000
-    startingCharge: 16000000
+    maxCharge: 64000000
+    startingCharge: 64000000
 
 - type: entity
   parent: SMESBasic
@@ -170,10 +170,10 @@
   - type: Battery
     startingCharge: 0
 
-- type: entity
+- type: entity # Cheeburbr. Баф до бафу 16 в оригіналі, 32 в Ому, 128 у нас
   parent: BaseSMES
   id: SMESAdvanced
-  suffix: Advanced, 32MJ
+  suffix: Advanced, 128MJ
   name: advanced SMES
   description: An even-higher-capacity superconducting magnetic energy storage (SMES) unit.
   components:
@@ -198,8 +198,8 @@
     board: SMESAdvancedMachineCircuitboard
   - type: Battery
      # Goobstation - SMES buff
-    maxCharge: 32000000
-    startingCharge: 32000000
+    maxCharge: 128000000
+    startingCharge: 128000000
   - type: PowerMonitoringDevice
     group: SMES
     sourceNode: input

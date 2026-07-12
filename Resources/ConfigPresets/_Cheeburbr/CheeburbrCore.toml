@@ -70,6 +70,9 @@ mass_limit = -1
 [lavaland]
 enabled = true
 
+[salvage]
+expedition_duration = 1500 # 25 хвилин. 11 в оригіналі
+
 [worldgen]
 enabled = true
 

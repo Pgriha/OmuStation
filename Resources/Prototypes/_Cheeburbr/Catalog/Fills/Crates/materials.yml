@@ -1,0 +1,22 @@
+# Перекладу не буде, щоб список нормально виглядав
+- type: entity
+  id: CheeburbrCrateMaterialUranium
+  parent: CrateGenericSteel
+  name: uranium sheet crate
+  description: 30 sheets of uranium.
+  components:
+  - type: StorageFill
+    contents:
+      - id: SheetUranium
+        amount: 1
+
+- type: entity
+  id: CheeburbrCrateMaterialDiamond
+  parent: CrateGenericSteel
+  name: refined diamond crate
+  description: Crate with one beautiful diamond.
+  components:
+  - type: StorageFill
+    contents:
+      - id: MaterialDiamond1
+        amount: 1

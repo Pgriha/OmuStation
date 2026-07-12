@@ -27,7 +27,7 @@
 - type: lavalandRuinPool
   id: LavalandRuins
   gridRuins:
-    #SyndicateBase: 1 # Omu, disable this.
+    SyndicateBase: 1 # Cheeburbr. Ому прибирали, а ми повернули
     HierophantArena: 1
     RougeAI: 1
     BiodomeBeach: 2
