@@ -360,6 +360,29 @@
     - аплодує # Cheeburbr. До кінця прототипу
     - аплодують
 
+- type: emote # Cheeburbr. Це чомусь видалили Губ чи Ому
+  id: ClapSingle
+  name: chat-emote-name-clap-single
+  category: Hands
+  icon: Interface/Emotes/clap.png #TODO: Needs a sprite that distinguishes it better from clap
+  whitelist:
+    components:
+    - Hands
+  blacklist:
+    tags:
+ #   - SiliconEmotes # Omu, let IPCs and other hand robots emote with them
+  chatMessages: [ "chat-emote-msg-clap-single" ]
+  chatTriggers:
+    - clap
+    - claps their hands together
+    - claps her hands together
+    - claps his hands together
+    - claps its hands together
+    - плескає в долоні # Cheeburbr. До кінця прототипу наше додавання
+    - плескають в долоні
+    - хлопає в долоні
+    - хлопають в долоні
+
 - type: emote
   id: Snap
   name: chat-emote-name-snap
