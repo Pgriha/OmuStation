@@ -7,6 +7,8 @@
         variation: 0.125
     Clap:
       collection: Claps
+    ClapSingle: # Cheeburbr. Повернення одиночного хлопка
+      collection: ClapSingle
     Snap:
       collection: Snaps
       params:
