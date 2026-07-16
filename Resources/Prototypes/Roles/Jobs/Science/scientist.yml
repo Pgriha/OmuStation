@@ -85,6 +85,7 @@
   access:
   - Research
   - Maintenance
+  - Robotics # Cheeburbr. Чому ні?
 
 - type: startingGear
   id: ScientistGear

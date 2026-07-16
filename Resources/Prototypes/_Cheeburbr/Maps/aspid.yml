@@ -1,0 +1,90 @@
+# Мапа перенесена з Гармонії (ss-14 Harmony) з невеличками переробками під білд Ому нашими силами
+- type: gameMap
+  id: Aspid
+  mapName: 'НЦС Аспід'
+  mapPath: /Maps/_Cheeburbr/aspid.yml
+  minPlayers: 30
+  maxPlayers: 65
+  stations:
+    Aspid:
+      stationProto: StandardNanotrasenStation
+      components:
+        - type: StationNameSetup
+          mapNameTemplate: '{0} НЦС Аспід {1}'
+          nameGenerator:
+            !type:NanotrasenNameGenerator
+            prefixCreator: '14'
+        - type: StationEmergencyShuttle
+          emergencyShuttlePath: /Maps/Shuttles/emergency_courser.yml
+        - type: StationJobs
+          availableJobs:
+            # Командування
+            Captain: [ 1, 1 ]
+            AdministrativeAssistant: [ 1, 1 ] # Нема спавну
+            NanotrasenRepresentative: [ 1, 1 ] # Нема спавну
+            BlueshieldOfficer: [ 1, 1 ] # Нема спавну
+            NanotrasenCareerTrainer: [ 2, 2]  # Нема спавну
+
+            # Інженерний
+            ChiefEngineer: [ 1, 1 ]
+            AtmosphericTechnician: [ 2, 2 ]
+            StationEngineer: [ 3, 4 ]
+            TechnicalAssistant: [ 4, 4 ]
+
+            # Медичний
+            ChiefMedicalOfficer: [ 1, 1 ]
+            Paramedic: [ 1, 1 ]
+            Chemist: [ 2, 2 ]
+            Virologist: [ 1, 1 ] # Нема спавну
+            MedicalDoctor: [ 3, 4 ]
+            MedicalIntern: [ 4, 4 ]
+            Psychologist: [ 1, 1 ]
+
+            # Науковий
+            ResearchDirector: [ 1, 1 ]
+            Scientist: [ 3, 3 ]
+            Roboticist: [ 2, 2 ]
+            ResearchAssistant: [ 4, 4 ]
+
+            # Безпека
+            HeadOfSecurity: [ 1, 1 ]
+            Warden: [ 1, 1 ]
+            SecuritySergeant: [ 1, 1 ]
+            Detective: [ 1, 1 ]
+            Brigmedic: [ 1, 1 ]
+            TransitPrisoner: [ 2, 2 ]
+            SecurityOfficer: [ 3, 3 ]
+            SecurityCadet: [ 3, 3 ]
+
+            # Постачання
+            Quartermaster: [ 1, 1 ]
+            SalvageSpecialist: [ 2, 2 ]
+            ShaftMiner: [ 2, 2 ]
+            CargoTechnician: [ 2, 3 ]
+            Courier: [ 2, 2 ]
+
+            # ШІ
+            StationAi: [ 1, 1 ]
+            Borg: [ 2, 2 ]
+
+            # Сервіс
+            HeadOfPersonnel: [ 1, 1 ]
+            Bartender: [ 1, 2 ]
+            Botanist: [ 2, 2 ]
+            Chef: [ 1, 2 ]
+            Janitor: [ 2, 2 ]
+            Chaplain: [ 1, 1 ]
+            Librarian: [ 1, 1 ]
+            Lawyer: [ 2, 2 ]
+            ServiceWorker: [ 3, 3 ]
+            Clown: [ 1, 1 ]
+            Mime: [ 1, 1 ]
+            Musician: [ 1, 1 ]
+            Reporter: [ 2, 2 ]
+            RadioHost: [ 1, 1 ] # Нема спавну
+            Passenger: [ -1, -1 ]
+
+        - type: StationBlobConfig
+          stageBegin: 40
+          stageCritical: 300
+          stageTheEnd: 750
