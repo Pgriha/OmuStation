@@ -69,10 +69,10 @@
     cost: 550
   - id: MineralScanner
     cost: 550
-  #- id: MedkitBruteFilled -- Omu, removed
-  #  cost: 600
-  #- id: MedkitBurnFilled -- Omu, removed
-  #  cost: 600
+  - id: MedkitBruteFilled # Cheeburbr. Ому прибрали, але ми повернули
+    cost: 600
+  - id: MedkitBurnFilled # Cheeburbr. Ому прибрали, але ми повернули
+    cost: 600
   - id: DoubleEmergencyOxygenTankFilled
     cost: 650
   - id: DoubleEmergencyNitrogenTankFilled

@@ -31,7 +31,7 @@
   - type: Item
     size: Tiny
   - type: UseDelay
-    delay: 5 # avoid spamming popups when you know it will fail to spawn a room
+    delay: 1 # Cheeburbr. 5 в оригіналі
   - type: ShelterCapsule
 
 - type: entity

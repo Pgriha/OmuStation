@@ -20,12 +20,12 @@
     canExamine: false
     canTargetMultiple: false
     respectsCrossMaps: true
-    whitelist:
-      tags:
-      - SalvagePinpointer
-    retargetingWhitelist:
-      tags:
-      - SalvagePinpointer
+#    whitelist: – Cheeburbr. Трекер можна налаштувати на будь кого
+#      tags:
+#      - SalvagePinpointer
+#    retargetingWhitelist:
+#      tags:
+#      - SalvagePinpointer
   - type: SalvageCrewPinpointer
   - type: Speech
     speechSounds: Borg
