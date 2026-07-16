@@ -342,7 +342,7 @@
   - type: StaticPrice
     price: 5000
   - type: AccessReader
-    access: [["ResearchDirector"]] # Omu, Was Research
+    access: [["Research"]] # Cheeburbr. ResearchDirector в Ому, повернуто до оригіналу
   - type: GuideHelp
     guides:
     - AnomalousResearch

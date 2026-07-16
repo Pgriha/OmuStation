@@ -20,10 +20,10 @@
           availableJobs:
             # Командування
             Captain: [ 1, 1 ]
-            AdministrativeAssistant: [ 1, 1 ] # Нема спавну
-            NanotrasenRepresentative: [ 1, 1 ] # Нема спавну
-            BlueshieldOfficer: [ 1, 1 ] # Нема спавну
-            NanotrasenCareerTrainer: [ 2, 2]  # Нема спавну
+            AdministrativeAssistant: [ 1, 1 ]
+            NanotrasenRepresentative: [ 1, 1 ]
+            BlueshieldOfficer: [ 1, 1 ]
+            NanotrasenCareerTrainer: [ 2, 2 ]
 
             # Інженерний
             ChiefEngineer: [ 1, 1 ]
@@ -35,7 +35,7 @@
             ChiefMedicalOfficer: [ 1, 1 ]
             Paramedic: [ 1, 1 ]
             Chemist: [ 2, 2 ]
-            Virologist: [ 1, 1 ] # Нема спавну
+            Virologist: [ 1, 1 ]
             MedicalDoctor: [ 3, 4 ]
             MedicalIntern: [ 4, 4 ]
             Psychologist: [ 1, 1 ]
@@ -81,7 +81,7 @@
             Mime: [ 1, 1 ]
             Musician: [ 1, 1 ]
             Reporter: [ 2, 2 ]
-            RadioHost: [ 1, 1 ] # Нема спавну
+            RadioHost: [ 1, 1 ]
             Passenger: [ -1, -1 ]
 
         - type: StationBlobConfig
