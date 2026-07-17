@@ -29,7 +29,7 @@
       - VendingMachineShamblersJuice
       - VendingMachineSmite
       - VendingMachineSoda #Robust Sofdrinks [Soda]
-      - VendingMachineSovietSoda #Boda
+#      - VendingMachineSovietSoda #Boda. Cheeburbr
       - VendingMachineSpaceUp
       - VendingMachineStarkist
     chance: 1
