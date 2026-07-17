@@ -147,6 +147,9 @@ lidgren_log_warning = false
 lidgren_log_error = false
 log_late_msg = false
 
+[dorm_notifier]
+enable = false
+
 [hub]
 advertise = 0
 use_dynamic_hostname = false

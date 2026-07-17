@@ -101,11 +101,11 @@
         WaterVapor: stationWaterVapor
         Ammonia: stationAmmonia
         NitrousOxide: stationNO
-        Frezon: danger
+        Frezon: stationTritium # Cheeburbr. danger в оригіналі, не треба тригеритися від 0.001%
         # <Goobstation>
-        BZ: danger
+        BZ: stationTritium # Cheeburbr. danger в оригіналі
         Healium: ignore # it's harmless unless you also breathe in nitrium, which is danger
-        Nitrium: danger
+        Nitrium: stationTritium # Cheeburbr. danger в оригіналі
         Pluoxium: ignore
         # </Goobstation>
     - type: Tag

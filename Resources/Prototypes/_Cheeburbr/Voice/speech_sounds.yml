@@ -1,0 +1,9 @@
+# Звуки молей для ніаножуків, бо від Ому лише баркінг
+- type: speechSounds
+  id: CheeburbrMothSpeech
+  saySound:
+    path: /Audio/_Omu/Voice/Barks/Moth_Squeak/moth.ogg
+  askSound:
+    path: /Audio/_Omu/Voice/Barks/Moth_Squeak/moth_ask.ogg
+  exclaimSound:
+    path: /Audio/_Omu/Voice/Barks/Moth_Squeak/moth_exclaim.ogg
