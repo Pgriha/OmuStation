@@ -1,0 +1,69 @@
+# Для Аспіду
+## ЦК
+- type: entity
+  parent: DefaultStationBeacon
+  id: CheeburbrDefaultStationBeaconBlueshield
+  suffix: Сирбурбер, Блюшилд
+  components:
+  - type: NavMapBeacon
+    defaultText: cheeburbr-station-beacon-blueshield
+    color: "#159415FF"
+
+## Командування
+- type: entity
+  parent: DefaultStationBeacon
+  id: CheeburbrDefaultStationBeaconCommandBriefingRoom
+  suffix: Сирбурбер, Брифінг рум
+  components:
+  - type: NavMapBeacon
+    defaultText: cheeburbr-station-beacon-briefing-room
+    color: "#FFFF00"
+
+## Медичний
+- type: entity
+  parent: DefaultStationBeacon
+  id: CheeburbrDefaultStationBeaconVirology
+  suffix: Сирбурбер, Вірусологія
+  components:
+  - type: NavMapBeacon
+    defaultText: cheeburbr-station-beacon-virology
+    color: "#52B4E9FF"
+
+- type: entity
+  parent: DefaultStationBeacon
+  id: CheeburbrDefaultStationBeaconClonning
+  suffix: Сирбурбер, Клонувальня
+  components:
+  - type: NavMapBeacon
+    defaultText: cheeburbr-station-beacon-clonning
+    color: "#52B4E9FF"
+
+## Науковий
+- type: entity
+  parent: DefaultStationBeacon
+  id: CheeburbrDefaultStationBeaconXenobio
+  suffix: Сирбурбер, Ксенобіо
+  components:
+  - type: NavMapBeacon
+    defaultText: cheeburbr-station-beacon-xenobio
+    color: "#D381C9FF"
+
+## Інженерний
+- type: entity
+  parent: DefaultStationBeacon
+  id: CheeburbrDefaultStationBeaconPTL
+  suffix: Сирбурбер, Лазер
+  components:
+  - type: NavMapBeacon
+    defaultText: cheeburbr-station-beacon-ptl
+    color: "#EFB341FF"
+
+## Загальне
+- type: entity
+  parent: DefaultStationBeacon
+  id: CheeburbrDefaultStationBeaconArcades
+  suffix: Сирбурбер, Аркади
+  components:
+  - type: NavMapBeacon
+    defaultText: cheeburbr-station-beacon-arcades
+    color: "#D4D4D496"

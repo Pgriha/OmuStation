@@ -1,7 +1,7 @@
 # Мапа перенесена з Гармонії (ss-14 Harmony) з невеличками переробками під білд Ому нашими силами
 - type: gameMap
   id: Aspid
-  mapName: 'НЦС Аспід'
+  mapName: 'КСК Аспід ' # NCS – Naval Control Station, КСК – Космічна Станція Контролю.
   mapPath: /Maps/_Cheeburbr/aspid.yml
   minPlayers: 30
   maxPlayers: 65
@@ -10,7 +10,7 @@
       stationProto: StandardNanotrasenStation
       components:
         - type: StationNameSetup
-          mapNameTemplate: '{0} НЦС Аспід {1}'
+          mapNameTemplate: '{0} КСК Аспід {1}'
           nameGenerator:
             !type:NanotrasenNameGenerator
             prefixCreator: '14'
@@ -23,28 +23,28 @@
             AdministrativeAssistant: [ 1, 1 ]
             NanotrasenRepresentative: [ 1, 1 ]
             BlueshieldOfficer: [ 1, 1 ]
-            NanotrasenCareerTrainer: [ 2, 2 ]
+            NanotrasenCareerTrainer: [ 1, 1 ]
 
             # Інженерний
             ChiefEngineer: [ 1, 1 ]
             AtmosphericTechnician: [ 2, 2 ]
-            StationEngineer: [ 3, 4 ]
-            TechnicalAssistant: [ 4, 4 ]
+            StationEngineer: [ 3, 3 ]
+            TechnicalAssistant: [ 3, 3 ]
 
             # Медичний
             ChiefMedicalOfficer: [ 1, 1 ]
             Paramedic: [ 1, 1 ]
             Chemist: [ 2, 2 ]
             Virologist: [ 1, 1 ]
-            MedicalDoctor: [ 3, 4 ]
-            MedicalIntern: [ 4, 4 ]
+            MedicalDoctor: [ 3, 3 ]
+            MedicalIntern: [ 3, 3 ]
             Psychologist: [ 1, 1 ]
 
             # Науковий
             ResearchDirector: [ 1, 1 ]
             Scientist: [ 3, 3 ]
             Roboticist: [ 2, 2 ]
-            ResearchAssistant: [ 4, 4 ]
+            ResearchAssistant: [ 3, 3 ]
 
             # Безпека
             HeadOfSecurity: [ 1, 1 ]
@@ -60,7 +60,7 @@
             Quartermaster: [ 1, 1 ]
             SalvageSpecialist: [ 2, 2 ]
             ShaftMiner: [ 2, 2 ]
-            CargoTechnician: [ 2, 3 ]
+            CargoTechnician: [ 2, 2 ]
             Courier: [ 2, 2 ]
 
             # ШІ
