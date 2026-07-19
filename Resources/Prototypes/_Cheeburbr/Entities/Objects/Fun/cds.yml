@@ -1,0 +1,575 @@
+- type: entity
+  parent: BaseCdDisk
+  id: ChBrBrBaseCdDisk
+  description: "CD диск збірнику \"Потўжниџ-Крижопі́ль\""
+  components:
+  - type: Sprite
+    sprite: _Cheeburbr/Objects/Misc/cd.rsi
+    state: icon
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Alexandra Stan - Mr Saxobeat)
+  id: CdDiskAlexandraStanMrSaxobeat
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Alexandra_Stan_Mr_Saxobeat_Radio_Edit.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Azumi Takahashi & Lotus Juice - It's Going Down Now)
+  id: CdDiskAzumiTakahashiLotusJuiceItsGoingDownNow
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Azumi_Takahashi_Lotus_Juice_ATLUS_Sound_Team_ATLUS_GAME_MUSIC_Lotus_Juice_ATLUS_Sound_Team_ATLUS_Sound_Team_It_s_Going_Down_Now.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Bonnie Tyler - Holding Out For A Hero)
+  id: CdDiskBonnieTylerHoldingOutForAHero
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Bandits_Motion_Picture_Soundtrack_Bonnie_Tyler_Holding_Out_For_A_Hero.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Betta Lemme - Bambola)
+  id: CdDiskBettaLemmeBambola
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Betta_Lemme_Bambola.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Billy Idol - Eyes Without A Face)
+  id: CdDiskBillyIdolEyesWithoutAFace
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Billy_Idol_Eyes_Without_A_Face_Remastered_1999.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Black Sabbath - Lady Evil)
+  id: CdDiskBlackSabbathLadyEvil
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Black_Sabbath_Lady_Evil.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Britney Spears - Baby One More Time)
+  id: CdDiskBritneySpearsBabyOneMoreTime
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Britney_Spears_Baby_One_More_Time.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Calogero & Passi - Face a la mer)
+  id: CdDiskCalogeroPassiFaceALaMer
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Calogero_Passi_Face_a_la_mer.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Coldplay - Adventure of a Lifetime)
+  id: CdDiskColdplayAdventureOfALifetime
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Coldplay_Adventure_of_a_Lifetime.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (David Guetta, Bebe Rexha & J Balvin - Say My Name)
+  id: CdDiskDavidGuettaBebeRexhaJBalvinSayMyName
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/David_Guetta_Bebe_Rexha_J_Balvin_Say_My_Name.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Depeche Mode - Personal Jesus)
+  id: CdDiskDepecheModePersonalJesus
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Depeche_Mode_Personal_Jesus.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Dr Phonics - Code Red)
+  id: CdDiskDrPhonicsCodeRed
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Dr_Phonics_Code_Red.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Duran Duran - INVISIBLE)
+  id: CdDiskDuranDuranInvisible
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Duran_Duran_INVISIBLE.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Elton John - I'm Still Standing)
+  id: CdDiskEltonJohnImStillStanding
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Elton_John_I_m_Still_Standing.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Eurythmics - Sweet Dreams Are Made of This)
+  id: CdDiskEurythmicsSweetDreamsAreMadeOfThis
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Eurythmics_Annie_Lennox_Dave_Stewart_Sweet_Dreams_Are_Made_of_This.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Every Move A Picture - Signs Of Life)
+  id: CdDiskEveryMoveAPictureSignsOfLife
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Every_Move_A_Picture_Signs_Of_Life_Demo.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Fasion - Dansez)
+  id: CdDiskFasionDansez
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Fasion_Dansez.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Flo Rida - Whistle)
+  id: CdDiskFloRidaWhistle
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Flo_Rida_Whistle.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Gary Numan - ME)
+  id: CdDiskGaryNumanMe
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Gary_Numan_ME.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Gary Numan & Tubeway Army - Are Friends Electric)
+  id: CdDiskGaryNumanTubewayArmyAreFriendsElectric
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Gary_Numan_Tubeway_Army_Are_Friends_Electric.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Grand Corps Malade & Berthollet - Chemins de traverse)
+  id: CdDiskGrandCorpsMaladeBertholletCheminsDeTraverse
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Grand_Corps_Malade_Julie_Berthollet_Camille_Berthollet_Chemins_de_traverse.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Gwen Stefani & Akon - The Sweet Escape)
+  id: CdDiskGwenStefaniAkonTheSweetEscape
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Gwen_Stefani_Akon_The_Sweet_Escape.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Hieroglyphics - Let It Roll)
+  id: CdDiskHieroglyphicsLetItRoll
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Hieroglyphics_Let_It_Roll.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Howlin Jackson - Jelly Roll Blues)
+  id: CdDiskHowlinJacksonJellyRollBlues
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Howlin_Jackson_Jelly_Roll_Blues.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Infected Mushroom - Never Mind)
+  id: CdDiskInfectedMushroomNeverMind
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Infected_Mushroom_Never_Mind_Liquid_Stranger_Remix.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Jan Valta & Adam Sporka - Rattay Feasts)
+  id: CdDiskJanValtaAdamSporkaRattayFeasts
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Jan_Valta_Adam_Sporka_Rattay_Feasts.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Journey - Who's Crying Now)
+  id: CdDiskJourneyWhosCryingNow
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Journey_Who_s_Crying_Now_2022_Remaster.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Justin Bieber & Ludacris - Baby)
+  id: CdDiskJustinBieberLudacrisBaby
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Justin_Bieber_Ludacris_Baby.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Katy Perry - I Kissed A Girl)
+  id: CdDiskKatyPerryIKissedAGirl
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Katy_Perry_I_Kissed_A_Girl.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Lady Gaga - The Dead Dance)
+  id: CdDiskLadyGagaTheDeadDance
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Lady_Gaga_The_Dead_Dance.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Mad Heads)
+  id: CdDiskMadHeads
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/MAD_HEADS__.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Maneskin - Beggin)
+  id: CdDiskManeskinBeggin
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Maneskin_Beggin.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Masayoshi Takanaka - Brasilian Skies)
+  id: CdDiskMasayoshiTakanakaBrasilianSkies
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Masayoshi_Takanaka_Brasilian_Skies.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Mad Heads - Probky)
+  id: CdDiskMadHeadsProbky
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/mh-probky.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Michael Jackson - Rock With You)
+  id: CdDiskMichaelJacksonRockWithYou
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Michael_Jackson_Rock_With_You.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Midge Ure - The Man Who Sold the World)
+  id: CdDiskMidgeUreTheManWhoSoldTheWorld
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Midge_Ure_The_Man_Who_Sold_the_World_2010_Remaster.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Michael Sembello - Maniac From Flashdance)
+  id: CdDiskMichaelSembelloManiacFromFlashdance
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/NA_Michael_Sembello_-_Maniac_From_Flashdance_Official_Audio.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Minako Yoshida - Midnight Driver)
+  id: CdDiskMinakoYoshidaMidnightDriver
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/NA_Minako_Yoshida_-_Midnight_Driver_Official_Audio.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Mittsies - Vitality)
+  id: CdDiskMittsiesVitality
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/NA_Mittsies_-_Vitality.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Questionable - Slightly Stoopid)
+  id: CdDiskQuestionableSlightlyStoopid
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/NA_Questionable_-_Slightly_Stoopid.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Tame Impala - The Less I Know The Better)
+  id: CdDiskTameImpalaTheLessIKnowTheBetter
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/NA_Tame_Impala_-_The_Less_I_Know_The_Better_Audio.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Wolfmother - Love Train)
+  id: CdDiskWolfmotherLoveTrain
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/NA_Wolfmother_-_Love_Train_Audio.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Paul Kalkbrenner & Stromae - Que ce soit clair)
+  id: CdDiskPaulKalkbrennerStromaeQueCeSoitClair
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Paul_Kalkbrenner_Stromae_QUE_CE_SOIT_CLAIR.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Rose & Bruno Mars - APT)
+  id: CdDiskRoseBrunoMarsApt
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/ROSE_Bruno_Mars_APT.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Selena Gomez & The Scene - Love You Like A Love Song)
+  id: CdDiskSelenaGomezTheSceneLoveYouLikeALoveSong
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Selena_Gomez_The_Scene_Love_You_Like_A_Love_Song.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Sheryl Crow - Real Gone)
+  id: CdDiskSherylCrowRealGone
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Sheryl_Crow_Real_Gone.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Shihoko Hirata - Heartbeat Heartbreak)
+  id: CdDiskShihokoHirataHeartbeatHeartbreak
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Shihoko_Hirata_Heartbeat_Heartbreak.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Skver - Vilni)
+  id: CdDiskSkverVilni
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/skver-vilni.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Spandau Ballet - Gold)
+  id: CdDiskSpandauBalletGold
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Spandau_Ballet_Gold_2022_Remix.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Stromae - Sante)
+  id: CdDiskStromaeSante
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Stromae_Sante.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Suuns - Up Past The Nursery)
+  id: CdDiskSuunsUpPastTheNursery
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Suuns_Up_Past_The_Nursery.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Synapson & Oumou Sangare - Bensema)
+  id: CdDiskSynapsonOumouSangareBensema
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Synapson_Oumou_Sangare_Bensema_feat_Oumou_Sangare.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Synapson, Tim Dup & Lass - Toujours)
+  id: CdDiskSynapsonTimDupLassToujours
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Synapson_Tim_Dup_Lass_Toujours_feat_Tim_Dup_Lass.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (The Chords - Sh-Boom)
+  id: CdDiskTheChordsShBoom
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/The_Chords_Sh-Boom.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (The RAH Band - Messages From The Stars)
+  id: CdDiskTheRahBandMessagesFromTheStars
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/The_RAH_Band_Messages_From_The_Stars.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (The Temptations - Ain't No Sun Since You've Been Gone)
+  id: CdDiskTheTemptationsAintNoSunSinceYouveBeenGone
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/The_Temptations_Ain_t_No_Sun_Since_You_ve_Been_Gone.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (The Temptations - Ball Of Confusion)
+  id: CdDiskTheTemptationsBallOfConfusion
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/The_Temptations_Ball_Of_Confusion_That_s_What_The_World_Is_Today.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (THMK - Molod)
+  id: CdDiskThmkMolod
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/thmk-molod.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (TIK - Zapah Viyny)
+  id: CdDiskTikZapahWar
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/tik-zapah-war.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Twisted Sister - King of the Fools)
+  id: CdDiskTwistedSisterKingOfTheFools
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Twisted_Sister_King_of_the_Fools.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Various Artists - Bosanska artiljerija)
+  id: CdDiskVariousArtistsBosanskaArtiljerija
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Various_Artists_Bosanska_artiljerija.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (White Zombie - I'm Your Boogieman)
+  id: CdDiskWhiteZombieImYourBoogieman
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/White_Zombie_I_m_Your_Boogieman.ogg
+
+- type: entity
+  parent: ChBrBrBaseCdDisk
+  name: cd диск (Woodkid - Iron)
+  id: CdDiskWoodkidIron
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Woodkid_Iron.ogg
