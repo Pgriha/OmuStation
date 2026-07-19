@@ -1,5 +1,5 @@
 - type: jukebox
-  id: Alexandra_Stan_Mr._Saxobeat_Radio_Edit
+  id: Alexandra_Stan_Mr_Saxobeat_Radio_Edit
   name: "[CPBPBP] Alexandra Stan Mr. Saxobeat Radio Edit"
   path:
     path: "/Audio/_Cheeburbr/Jukebox/Alexandra_Stan_Mr_Saxobeat_Radio_Edit.ogg"
@@ -35,7 +35,7 @@
     path: "/Audio/_Cheeburbr/Jukebox/Black_Sabbath_Lady_Evil.ogg"
 
 - type: jukebox
-  id: Britney_Spears_...Baby_One_More_Time
+  id: Britney_Spears_Baby_One_More_Time
   name: "[CPBPBP] Britney Spears ...Baby One More Time"
   path:
     path: "/Audio/_Cheeburbr/Jukebox/Britney_Spears_Baby_One_More_Time.ogg"
@@ -65,7 +65,7 @@
     path: "/Audio/_Cheeburbr/Jukebox/Depeche_Mode_Personal_Jesus.ogg"
 
 - type: jukebox
-  id: Dr._Phonics_Code_Red
+  id: Dr_Phonics_Code_Red
   name: "[CPBPBP] Dr. Phonics Code Red"
   path:
     path: "/Audio/_Cheeburbr/Jukebox/Dr_Phonics_Code_Red.ogg"
@@ -107,7 +107,7 @@
     path: "/Audio/_Cheeburbr/Jukebox/Flo_Rida_Whistle.ogg"
 
 - type: jukebox
-  id: Gary_Numan_M.E..
+  id: Gary_Numan_ME
   name: "[CPBPBP] Gary Numan M.E.."
   path:
     path: "/Audio/_Cheeburbr/Jukebox/Gary_Numan_ME.ogg"
@@ -251,7 +251,7 @@
     path: "/Audio/_Cheeburbr/Jukebox/Paul_Kalkbrenner_Stromae_QUE_CE_SOIT_CLAIR.ogg"
 
 - type: jukebox
-  id: ROSE_Bruno_Mars_APT..
+  id: ROSE_Bruno_Mars_APT
   name: "[CPBPBP] ROSE Bruno Mars APT.."
   path:
     path: "/Audio/_Cheeburbr/Jukebox/ROSE_Bruno_Mars_APT.ogg"
@@ -293,13 +293,13 @@
     path: "/Audio/_Cheeburbr/Jukebox/Suuns_Up_Past_The_Nursery.ogg"
 
 - type: jukebox
-  id: Synapson_Oumou_Sangare_Bensema_feat._Oumou_Sangare
+  id: Synapson_Oumou_Sangare_Bensema_feat_Oumou_Sangare
   name: "[CPBPBP] Synapson Oumou Sangare Bensema feat. Oumou Sangare"
   path:
     path: "/Audio/_Cheeburbr/Jukebox/Synapson_Oumou_Sangare_Bensema_feat_Oumou_Sangare.ogg"
 
 - type: jukebox
-  id: Synapson_Tim_Dup_Lass_Toujours_feat._Tim_Dup_Lass
+  id: Synapson_Tim_Dup_Lass_Toujours_feat_Tim_Dup_Lass
   name: "[CPBPBP] Synapson Tim Dup Lass Toujours feat. Tim Dup Lass"
   path:
     path: "/Audio/_Cheeburbr/Jukebox/Synapson_Tim_Dup_Lass_Toujours_feat_Tim_Dup_Lass.ogg"
