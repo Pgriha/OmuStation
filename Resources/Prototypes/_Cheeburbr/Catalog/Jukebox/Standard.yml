@@ -1,14 +1,14 @@
 - type: jukebox
   id: Alexandra_Stan_Mr_Saxobeat_Radio_Edit
-  name: "[CPBPBP] Alexandra Stan Mr. Saxobeat Radio Edit"
+  name: "[CPBPBP] Alexandra Stan – Mr Saxobeat"
   path:
     path: "/Audio/_Cheeburbr/Jukebox/Alexandra_Stan_Mr_Saxobeat_Radio_Edit.ogg"
 
 - type: jukebox
-  id: Azumi_Takahashi_Lotus_Juice_ATLUS_Sound_Team_ATLUS_GAME_MUSIC_Lotus_Juice_ATLUS_Sound_Team_ATLUS_Sound_Team_It_s_Going_Down_Now
-  name: "[CPBPBP] Azumi Takahashi Lotus Juice ATLUS Sound Team ATLUS GAME MUSIC Lotus Juice ATLUS Sound Team ATLUS Sound Team It s Going Down Now"
+  id: Azumi_Takahashi_Lotus_Juice_It_s_Going_Down_Now
+  name: "[CPBPBP] Azumi Takahashi Lotus Juice – It s Going Down Now"
   path:
-    path: "/Audio/_Cheeburbr/Jukebox/Azumi_Takahashi_Lotus_Juice_ATLUS_Sound_Team_ATLUS_GAME_MUSIC_Lotus_Juice_ATLUS_Sound_Team_ATLUS_Sound_Team_It_s_Going_Down_Now.ogg"
+    path: "/Audio/_Cheeburbr/Jukebox/Azumi_Takahashi_Lotus_Juice_It_s_Going_Down_Now.ogg"
 
 - type: jukebox
   id: Bandits_Motion_Picture_Soundtrack_Bonnie_Tyler_Holding_Out_For_A_Hero
