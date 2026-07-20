@@ -57,6 +57,13 @@ mob_pushing = false
 [atmos]
 space_wind = false
 
+[replay]
+#Вмикає автозапис реплеїв всього раунду
+auto_record = false # true в конфігу сервера, щоб не мучало всіх з локалками
+record_admin_chat = false
+auto_record_name = "Раунд №{round}-{hour}_{minute}-{day}.{month}.{year}.zip"
+max_compressed_size = 1048576 # гігабайт
+
 [shuttle]
 #Вимикає раундстарт спавн зайвих мап ваніли №1, зміни еваку та можливість ФТЛити великі шатли
 auto_call_time = 0
