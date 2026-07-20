@@ -1,143 +1,79 @@
-# Cheeburbr CD`s
+# Наша музика. За бажанням можете запропонувати сюди ще щось!
 - type: entity
-  id: CrateRadioStationMusicCds
+  id: CheeburbrCrateMusicCds
   parent: CrateGenericSteel
-  name: ящик CD з музикою
-  description: Цілий ящик відбірних пісень. Містить 15 позицій. Тепер на Компакт-дисках!
+  name: cd disks crate Moff Co # Англійською, щоб не ламало список
+  description: Цілий ящик відбірних пісень. Містить 15 випадкових позицій з збірнику "Потўжниџ-Крижопі́ль". Тепер на Компакт-дисках! Випуск та виробництво спонсоровано корпорацію Мофф ко.
   components:
   - type: EntityTableContainerFill
     containers:
       entity_storage: !type:NestedSelector
-        tableId: RandomMusicCD
+        tableId: CheeburbrRandomMusicCD
         rolls: 15
 
 - type: entityTable
-  id: RandomMusicCD
+  id: CheeburbrRandomMusicCD
   table: !type:GroupSelector
     children:
-    - id: CdDiskAlexandraStanMrSaxobeat
-      weight: 1
-    - id: CdDiskAzumiTakahashiLotusJuiceItsGoingDownNow
-      weight: 1
-    - id: CdDiskBonnieTylerHoldingOutForAHero
-      weight: 1
-    - id: CdDiskBettaLemmeBambola
-      weight: 1
-    - id: CdDiskBillyIdolEyesWithoutAFace
-      weight: 1
-    - id: CdDiskBlackSabbathLadyEvil
-      weight: 1
-    - id: CdDiskBritneySpearsBabyOneMoreTime
-      weight: 1
-    - id: CdDiskCalogeroPassiFaceALaMer
-      weight: 1
-    - id: CdDiskColdplayAdventureOfALifetime
-      weight: 1
-    - id: CdDiskDavidGuettaBebeRexhaJBalvinSayMyName
-      weight: 1
-    - id: CdDiskDepecheModePersonalJesus
-      weight: 1
-    - id: CdDiskDrPhonicsCodeRed
-      weight: 1
-    - id: CdDiskDuranDuranInvisible
-      weight: 1
-    - id: CdDiskEltonJohnImStillStanding
-      weight: 1
-    - id: CdDiskEurythmicsSweetDreamsAreMadeOfThis
-      weight: 1
-    - id: CdDiskEveryMoveAPictureSignsOfLife
-      weight: 1
-    - id: CdDiskFasionDansez
-      weight: 1
-    - id: CdDiskFloRidaWhistle
-      weight: 1
-    - id: CdDiskGaryNumanMe
-      weight: 1
-    - id: CdDiskGaryNumanTubewayArmyAreFriendsElectric
-      weight: 1
-    - id: CdDiskGrandCorpsMaladeBertholletCheminsDeTraverse
-      weight: 1
-    - id: CdDiskGwenStefaniAkonTheSweetEscape
-      weight: 1
-    - id: CdDiskHieroglyphicsLetItRoll
-      weight: 1
-    - id: CdDiskHowlinJacksonJellyRollBlues
-      weight: 1
-    - id: CdDiskInfectedMushroomNeverMind
-      weight: 1
-    - id: CdDiskJanValtaAdamSporkaRattayFeasts
-      weight: 1
-    - id: CdDiskJourneyWhosCryingNow
-      weight: 1
-    - id: CdDiskJustinBieberLudacrisBaby
-      weight: 1
-    - id: CdDiskKatyPerryIKissedAGirl
-      weight: 1
-    - id: CdDiskLadyGagaTheDeadDance
-      weight: 1
-    - id: CdDiskMadHeads
-      weight: 1
-    - id: CdDiskManeskinBeggin
-      weight: 1
-    - id: CdDiskMasayoshiTakanakaBrasilianSkies
-      weight: 1
-    - id: CdDiskMadHeadsProbky
-      weight: 1
-    - id: CdDiskMichaelJacksonRockWithYou
-      weight: 1
-    - id: CdDiskMidgeUreTheManWhoSoldTheWorld
-      weight: 1
-    - id: CdDiskMichaelSembelloManiacFromFlashdance
-      weight: 1
-    - id: CdDiskMinakoYoshidaMidnightDriver
-      weight: 1
-    - id: CdDiskMittsiesVitality
-      weight: 1
-    - id: CdDiskQuestionableSlightlyStoopid
-      weight: 1
-    - id: CdDiskTameImpalaTheLessIKnowTheBetter
-      weight: 1
-    - id: CdDiskWolfmotherLoveTrain
-      weight: 1
-    - id: CdDiskPaulKalkbrennerStromaeQueCeSoitClair
-      weight: 1
-    - id: CdDiskRoseBrunoMarsApt
-      weight: 1
-    - id: CdDiskSelenaGomezTheSceneLoveYouLikeALoveSong
-      weight: 1
-    - id: CdDiskSherylCrowRealGone
-      weight: 1
-    - id: CdDiskShihokoHirataHeartbeatHeartbreak
-      weight: 1
-    - id: CdDiskSkverVilni
-      weight: 1
-    - id: CdDiskSpandauBalletGold
-      weight: 1
-    - id: CdDiskStromaeSante
-      weight: 1
-    - id: CdDiskSuunsUpPastTheNursery
-      weight: 1
-    - id: CdDiskSynapsonOumouSangareBensema
-      weight: 1
-    - id: CdDiskSynapsonTimDupLassToujours
-      weight: 1
-    - id: CdDiskTheChordsShBoom
-      weight: 1
-    - id: CdDiskTheRahBandMessagesFromTheStars
-      weight: 1
-    - id: CdDiskTheTemptationsAintNoSunSinceYouveBeenGone
-      weight: 1
-    - id: CdDiskTheTemptationsBallOfConfusion
-      weight: 1
-    - id: CdDiskThmkMolod
-      weight: 1
-    - id: CdDiskTikZapahWar
-      weight: 1
-    - id: CdDiskTwistedSisterKingOfTheFools
-      weight: 1
-    - id: CdDiskVariousArtistsBosanskaArtiljerija
-      weight: 1
-    - id: CdDiskWhiteZombieImYourBoogieman
-      weight: 1
-    - id: CdDiskWoodkidIron
-      weight: 1
+    - id: CheeburbrCdDiskAlexandraStanMrSaxobeat
+    - id: CheeburbrCdDiskAzumiTakahashiLotusJuiceItsGoingDownNow
+    - id: CheeburbrCdDiskBonnieTylerHoldingOutForAHero
+    - id: CheeburbrCdDiskBettaLemmeBambola
+    - id: CheeburbrCdDiskBillyIdolEyesWithoutAFace
+    - id: CheeburbrCdDiskBlackSabbathLadyEvil
+    - id: CheeburbrCdDiskBritneySpearsBabyOneMoreTime
+    - id: CheeburbrCdDiskCalogeroPassiFaceALaMer
+    - id: CheeburbrCdDiskColdplayAdventureOfALifetime
+    - id: CheeburbrCdDiskDavidGuettaBebeRexhaJBalvinSayMyName
+    - id: CheeburbrCdDiskDepecheModePersonalJesus
+    - id: CheeburbrCdDiskDrPhonicsCodeRed
+    - id: CheeburbrCdDiskDuranDuranInvisible
+    - id: CheeburbrCdDiskEltonJohnImStillStanding
+    - id: CheeburbrCdDiskEurythmicsSweetDreamsAreMadeOfThis
+    - id: CheeburbrCdDiskEveryMoveAPictureSignsOfLife
+    - id: CheeburbrCdDiskFasionDansez
+    - id: CheeburbrCdDiskFloRidaWhistle
+    - id: CheeburbrCdDiskGaryNumanMe
+    - id: CheeburbrCdDiskGaryNumanTubewayArmyAreFriendsElectric
+    - id: CheeburbrCdDiskGrandCorpsMaladeBertholletCheminsDeTraverse
+    - id: CheeburbrCdDiskGwenStefaniAkonTheSweetEscape
+    - id: CheeburbrCdDiskHieroglyphicsLetItRoll
+    - id: CheeburbrCdDiskHowlinJacksonJellyRollBlues
+    - id: CheeburbrCdDiskInfectedMushroomNeverMind
+    - id: CheeburbrCdDiskJanValtaAdamSporkaRattayFeasts
+    - id: CheeburbrCdDiskJourneyWhosCryingNow
+    - id: CheeburbrCdDiskJustinBieberLudacrisBaby
+    - id: CheeburbrCdDiskKatyPerryIKissedAGirl
+    - id: CheeburbrCdDiskLadyGagaTheDeadDance
+    - id: CheeburbrCdDiskMadHeads
+    - id: CheeburbrCdDiskManeskinBeggin
+    - id: CheeburbrCdDiskMasayoshiTakanakaBrasilianSkies
+    - id: CheeburbrCdDiskMichaelJacksonRockWithYou
+    - id: CheeburbrCdDiskMidgeUreTheManWhoSoldTheWorld
+    - id: CheeburbrCdDiskMichaelSembelloManiacFromFlashdance
+    - id: CheeburbrCdDiskMinakoYoshidaMidnightDriver
+    - id: CheeburbrCdDiskMittsiesVitality
+    - id: CheeburbrCdDiskQuestionableSlightlyStoopid
+    - id: CheeburbrCdDiskTameImpalaTheLessIKnowTheBetter
+    - id: CheeburbrCdDiskWolfmotherLoveTrain
+    - id: CheeburbrCdDiskPaulKalkbrennerStromaeQueCeSoitClair
+    - id: CheeburbrCdDiskRoseBrunoMarsApt
+    - id: CheeburbrCdDiskSelenaGomezTheSceneLoveYouLikeALoveSong
+    - id: CheeburbrCdDiskSherylCrowRealGone
+    - id: CheeburbrCdDiskShihokoHirataHeartbeatHeartbreak
+    - id: CheeburbrCdDiskSkverVilni
+    - id: CheeburbrCdDiskSpandauBalletGold
+    - id: CheeburbrCdDiskStromaeSante
+    - id: CheeburbrCdDiskSuunsUpPastTheNursery
+    - id: CheeburbrCdDiskSynapsonOumouSangareBensema
+    - id: CheeburbrCdDiskSynapsonTimDupLassToujours
+    - id: CheeburbrCdDiskTheChordsShBoom
+    - id: CheeburbrCdDiskTheRahBandMessagesFromTheStars
+    - id: CheeburbrCdDiskTheTemptationsAintNoSunSinceYouveBeenGone
+    - id: CheeburbrCdDiskTheTemptationsBallOfConfusion
+    - id: CheeburbrCdDiskThmkMolod
+    - id: CheeburbrCdDiskTikZapahWar
+    - id: CheeburbrCdDiskTwistedSisterKingOfTheFools
+    - id: CheeburbrCdDiskVariousArtistsBosanskaArtiljerija
+    - id: CheeburbrCdDiskWhiteZombieImYourBoogieman
+    - id: CheeburbrCdDiskWoodkidIron
