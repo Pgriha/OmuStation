@@ -359,12 +359,6 @@
     path: "/Audio/_Cheeburbr/Jukebox/Jan_Valta_Adam_Sporka_Rattay_Feasts.ogg"
 
 - type: jukebox
-  id: mad_heads_xl_probky
-  name: "[CPBPBP] Mad Heads XL Пробки"
-  path:
-    path: "/Audio/_Cheeburbr/Jukebox/mh-probky.ogg"
-
-- type: jukebox
   id: tik_zapakh_viiny
   name: "[CPBPBP] ТІК Запах війни"
   path:
