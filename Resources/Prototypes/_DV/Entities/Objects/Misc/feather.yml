@@ -51,4 +51,25 @@
     - Write # Like a quill!
     - Pen
     - Trash
+    - Paper # Cheeburbr
   - type: Feather
+  # Cheeburbr start. Жерти пір'я
+  - type: Food
+    solution: food
+    delay: 7
+    forceFeedDelay: 7
+  - type: BadFood
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 5
+        reagents:
+        - ReagentId: Fiber
+          Quantity: 5
+  - type: FlavorProfile
+    flavors:
+      - cotton
+  - type: Edible
+  - type: Extractable
+    grindableSolutionName: food
+  # Cheeburbr end
