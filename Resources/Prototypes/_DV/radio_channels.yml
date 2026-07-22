@@ -1,6 +1,6 @@
 - type: radioChannel
   id: Prison
   name: chat-radio-prison
-  keycode: 'п'
+  keycode: 'в' # Cheeburbr. В - В'язниця.
   frequency: 1601
   color: "#FFA500"

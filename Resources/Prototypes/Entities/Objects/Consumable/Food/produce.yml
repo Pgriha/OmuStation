@@ -1779,7 +1779,7 @@
 
 - type: entity
   name: lily
-  parent: FoodProduceBase
+  parent: FoodPoppy # Cheeburbr. FoodProduceBase у Ому чомусь, хоча в оригіналі мак. Повертання можливості одягати на голову
   id: FoodLily
   description: A beautiful orange flower containing topical medicine.
   components:

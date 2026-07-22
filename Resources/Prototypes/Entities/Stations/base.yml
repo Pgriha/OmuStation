@@ -143,8 +143,8 @@
         ruins: !type:GridSpawnGroup
           hide: true
           nameGrid: true
-          minCount: 2
-          maxCount: 2
+          minCount: 3 # Cheeburbr. 2 в оригіналі
+          maxCount: 4 # Cheeburbr. 2 в оригіналі
           stationGrid: false
           paths:
           - /Maps/Ruins/abandoned_outpost.yml
@@ -181,21 +181,18 @@
           - ChunkDebrisSmall
           - ChunkDebrisSmall
           - ChunkDebris
-        # Cheeburbr. Так, ВГроїд (було прибрано Губом)
-        vgroid: !type:DungeonSpawnGroup
-          minimumDistance: 500 # Cheeburbr. 300 в оригіналі
-          maximumDistance: 750 # Cheeburbr. 350 в оригіналі
-          nameDataset: NamesBorer
-          stationGrid: false
-          addComponents:
-          - type: Gravity
-            enabled: true
-            inherent: true
-          - type: IFF
-            flags: HideLabel
-            color: "#d67e27"
-          protos:
-          - VGRoid
+        # Cheeburbr. Так, ВГроїд, але знову ні, бо чомусь спавниться на окремій мапі
+        #vgroid: !type:DungeonSpawnGroup
+        #  minimumDistance: 500 # Cheeburbr. 300 в оригіналі
+        #  maximumDistance: 750 # Cheeburbr. 350 в оригіналі
+        #  nameDataset: NamesBorer
+        #  stationGrid: false
+        #  addComponents:
+        #  - type: Gravity
+        #    enabled: true
+        #    inherent: true
+        #  protos:
+        #  - VGRoid
 
 - type: entity
   id: BaseStationCentcomm
