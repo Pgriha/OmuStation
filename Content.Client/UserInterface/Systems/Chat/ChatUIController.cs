@@ -799,6 +799,12 @@ public sealed partial class ChatUIController : UIController
                 break;
         }
         // </Goobstation>
+        // DeltaV begin - refresh indicator change. Cheeburbr. Перенесено нами
+        if (CurrentChannel != prefixChannel)
+            _typingIndicator?.ClientSubmittedChatText();
+
+        CurrentChannel = prefixChannel;
+        // DeltaV end
     }
 
     // Goobstation - Starlight collective mind port
