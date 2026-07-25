@@ -84,7 +84,7 @@
     state: icon
   - type: SetSelector
     possibleSets:
-    - HoSPetLaikaSet
+    #- HoSPetLaikaSet – Cheeburbr. ІдІ нахуйtm
     - HoSPetShivaSet
     - HoSPetTrevorSet
     maxSelectedSets: 1

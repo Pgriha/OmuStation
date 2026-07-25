@@ -149,7 +149,7 @@
 AirlockBoxerGlassLocked: AirlockServiceGlassLocked
 AirlockClownGlassLocked: AirlockServiceGlassLocked
 AirlockClownLocked: AirlockServiceGlassLocked
-AirlockCorpsmanGlassLocked: AirlockServiceGlassLocked
+#AirlockCorpsmanGlassLocked: AirlockServiceGlassLocked – Cheeburbr
 #AirlockExternalGlassShuttleShipyard: AirlockExternalGlassLocked #Omu
 AirlockMailGlassLocked: AirlockCargoGlassLocked
 AirlockMaintMailLocked: AirlockMaintCargoLocked
@@ -167,24 +167,24 @@ AirlockZookeeperGlassLocked: AirlockServiceGlassLocked
 AirlockZookeeperLocked: AirlockServiceLocked
 AlwaysPoweredLightPostSmallRed: null
 AsteroidAltRock: AsteroidRock
-BenchParkBambooMiddle: null
-BenchParkLeft: null
-BenchParkMiddle: null
-BenchParkRight: null
-BenchPewLeft: null
-BenchPewMiddle: null
-BenchPewRight: null
+#BenchParkBambooMiddle: null – Cheeburbr
+#BenchParkLeft: null – Cheeburbr
+#BenchParkMiddle: null – Cheeburbr
+#BenchParkRight: null – Cheeburbr
+#BenchPewLeft: null – Cheeburbr
+#BenchPewMiddle: null – Cheeburbr
+#BenchPewRight: null – Cheeburbr
 #BenchSofaCorpLeft: null # Goob edit
 #BenchSofaCorpMiddle: null # Goob edit
 #BenchSofaCorpRight: null # Goob edit
 #BenchSofaLeft: null #Omu
 #BenchSofaRight: null #Omu
-BenchSteelLeft: null
-BenchSteelMiddle: null
-BenchSteelRight: null
-BenchSteelWhiteLeft: null
-BenchSteelWhiteMiddle: null
-BenchSteelWhiteRight: null
+#BenchSteelLeft: null – Cheeburbr
+#BenchSteelMiddle: null – Cheeburbr
+#BenchSteelRight: null – Cheeburbr
+#BenchSteelWhiteLeft: null – Cheeburbr
+#BenchSteelWhiteMiddle: null – Cheeburbr
+#BenchSteelWhiteRight: null – Cheeburbr
 BoardGameSpawner: null
 BoxColoredLighttube: BoxLighttube
 BoxEncryptionKeyPrisoner: BoxEncryptionKeyPassenger
@@ -517,7 +517,7 @@ VehicleSecwayStealObjective: null
 #VehicleKeyJanicart: null Goobstation - Re-add vehicles
 #VehicleKeySecway: null Goobstation - Re-add vehicles
 #VehicleKeyATV: null Goobstation - Re-add vehicles
-VehicleKeySkeleton: null
+#VehicleKeySkeleton: null – Cheeburbr. Губ забув
 #VehicleKeySyndicateSegway: null Goobstation - Re-add vehicles
 #VehicleKeySkeletonMotorcycle: null Corvax Goobstation - Re-add vehicles
 #VehicleSecway: null Goobstation - Re-add vehicles
@@ -532,7 +532,7 @@ ActionVehicleHorn: null
 MobTaxiBot: null
 # MobSupplyBot: null
 SpawnVehicleMotobike: null
-SpawnVehicleATV: null
+#SpawnVehicleATV: null – Cheeburbr. Губ забув
 #SpawnVehicleSecway: null Goobstation - Re-add vehicles
 #SpawnVehicleJanicart: null Goobstation - Re-add vehicles
 #VehicleJanicart: null Goobstation - Re-add vehicles
@@ -1145,3 +1145,7 @@ VendingMachineSovietSoda: RandomVendingDrinks
 
 # 2026-07-18. Cheeburbr. Бісячка
 MouseTimedSpawner: null
+
+# 2026-07-24. Cheeburbr. Для мапінгу
+ChairOfficeDark: SpawnVehicleChairOfficeDark
+ChairOfficeLight: SpawnVehicleChairOfficeLight

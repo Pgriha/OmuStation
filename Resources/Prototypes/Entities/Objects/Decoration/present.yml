@@ -330,8 +330,8 @@
         orGroup: GiftPool
       - id: ClothingHeadHatSantahat
         orGroup: GiftPool
-      - id: ClothingHeadHatUshanka
-        orGroup: GiftPool
+#      - id: ClothingHeadHatUshanka – Cheeburbr. ІдІ нахуй
+#        orGroup: GiftPool
       - id: ClothingHeadHatXmasCrown
         orGroup: GiftPool
       - id: ClothingHeadHatBunny

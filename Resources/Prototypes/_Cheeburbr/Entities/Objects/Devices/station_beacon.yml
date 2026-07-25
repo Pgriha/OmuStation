@@ -58,6 +58,25 @@
     defaultText: cheeburbr-station-beacon-ptl
     color: "#EFB341FF"
 
+## Сервіс
+- type: entity
+  parent: DefaultStationBeacon
+  id: CheeburbrDefaultStationBeaconBoxingRing
+  suffix: Сирбурбер, Боксерський ринг
+  components:
+  - type: NavMapBeacon
+    defaultText: cheeburbr-station-beacon-boxing-ring
+    color: "#9FED58FF"
+
+- type: entity
+  parent: DefaultStationBeacon
+  id: CheeburbrDefaultStationBeaconZoo
+  suffix: Сирбурбер, Зоопарк
+  components:
+  - type: NavMapBeacon
+    defaultText: cheeburbr-station-beacon-zoo
+    color: "#9FED58FF"
+
 ## Загальне
 - type: entity
   parent: DefaultStationBeacon
@@ -66,4 +85,31 @@
   components:
   - type: NavMapBeacon
     defaultText: cheeburbr-station-beacon-arcades
+    color: "#D4D4D496"
+
+- type: entity
+  parent: DefaultStationBeacon
+  id: CheeburbrDefaultStationBeaconBeach
+  suffix: Сирбурбер, Пляж
+  components:
+  - type: NavMapBeacon
+    defaultText: cheeburbr-station-beacon-beach
+    color: "#D4D4D496"
+
+- type: entity
+  parent: DefaultStationBeacon
+  id: CheeburbrDefaultStationBeaconPark
+  suffix: Сирбурбер, Парк
+  components:
+  - type: NavMapBeacon
+    defaultText: cheeburbr-station-beacon-park
+    color: "#D4D4D496"
+
+- type: entity
+  parent: DefaultStationBeacon
+  id: CheeburbrDefaultStationBeaconBathhouse
+  suffix: Сирбурбер, Лазня
+  components:
+  - type: NavMapBeacon
+    defaultText: cheeburbr-station-beacon-bathhouse
     color: "#D4D4D496"
