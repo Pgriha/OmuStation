@@ -3,7 +3,7 @@
   icon:
     sprite: _Cheeburbr/Objects/Misc/cd.rsi
     state: icon
-  product: CheeburbrCrateMusicCds
+  product: BrbrCrateMusicCds
   cost: 3000
   category: cargoproduct-category-name-service
   group: market
