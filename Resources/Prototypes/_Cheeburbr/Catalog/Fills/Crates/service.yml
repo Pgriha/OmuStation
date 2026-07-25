@@ -1,79 +1,79 @@
 # Наша музика. За бажанням можете запропонувати сюди ще щось!
 - type: entity
-  id: CheeburbrCrateMusicCds
+  id: BrbrCrateMusicCds
   parent: CrateGenericSteel
-  name: cd disks crate Moff Co # Англійською, щоб не ламало список
+  name: cd disks crate Cheeburbr Co # Англійською, щоб не ламало список
   description: Цілий ящик відбірних пісень. Містить 15 випадкових позицій з збірнику "Потўжниџ-Крижопі́ль". Тепер на Компакт-дисках! Випуск та виробництво спонсоровано корпорацію Мофф ко.
   components:
   - type: EntityTableContainerFill
     containers:
       entity_storage: !type:NestedSelector
-        tableId: CheeburbrRandomMusicCD
+        tableId: BrbrRandomMusicCD
         rolls: 15
 
 - type: entityTable
-  id: CheeburbrRandomMusicCD
+  id: BrbrRandomMusicCD
   table: !type:GroupSelector
     children:
-    - id: CheeburbrCdDiskAlexandraStanMrSaxobeat
-    - id: CheeburbrCdDiskAzumiTakahashiLotusJuiceItsGoingDownNow
-    - id: CheeburbrCdDiskBonnieTylerHoldingOutForAHero
-    - id: CheeburbrCdDiskBettaLemmeBambola
-    - id: CheeburbrCdDiskBillyIdolEyesWithoutAFace
-    - id: CheeburbrCdDiskBlackSabbathLadyEvil
-    - id: CheeburbrCdDiskBritneySpearsBabyOneMoreTime
-    - id: CheeburbrCdDiskCalogeroPassiFaceALaMer
-    - id: CheeburbrCdDiskColdplayAdventureOfALifetime
-    - id: CheeburbrCdDiskDavidGuettaBebeRexhaJBalvinSayMyName
-    - id: CheeburbrCdDiskDepecheModePersonalJesus
-    - id: CheeburbrCdDiskDrPhonicsCodeRed
-    - id: CheeburbrCdDiskDuranDuranInvisible
-    - id: CheeburbrCdDiskEltonJohnImStillStanding
-    - id: CheeburbrCdDiskEurythmicsSweetDreamsAreMadeOfThis
-    - id: CheeburbrCdDiskEveryMoveAPictureSignsOfLife
-    - id: CheeburbrCdDiskFasionDansez
-    - id: CheeburbrCdDiskFloRidaWhistle
-    - id: CheeburbrCdDiskGaryNumanMe
-    - id: CheeburbrCdDiskGaryNumanTubewayArmyAreFriendsElectric
-    - id: CheeburbrCdDiskGrandCorpsMaladeBertholletCheminsDeTraverse
-    - id: CheeburbrCdDiskGwenStefaniAkonTheSweetEscape
-    - id: CheeburbrCdDiskHieroglyphicsLetItRoll
-    - id: CheeburbrCdDiskHowlinJacksonJellyRollBlues
-    - id: CheeburbrCdDiskInfectedMushroomNeverMind
-    - id: CheeburbrCdDiskJanValtaAdamSporkaRattayFeasts
-    - id: CheeburbrCdDiskJourneyWhosCryingNow
-    - id: CheeburbrCdDiskJustinBieberLudacrisBaby
-    - id: CheeburbrCdDiskKatyPerryIKissedAGirl
-    - id: CheeburbrCdDiskLadyGagaTheDeadDance
-    - id: CheeburbrCdDiskMadHeads
-    - id: CheeburbrCdDiskManeskinBeggin
-    - id: CheeburbrCdDiskMasayoshiTakanakaBrasilianSkies
-    - id: CheeburbrCdDiskMichaelJacksonRockWithYou
-    - id: CheeburbrCdDiskMidgeUreTheManWhoSoldTheWorld
-    - id: CheeburbrCdDiskMichaelSembelloManiacFromFlashdance
-    - id: CheeburbrCdDiskMinakoYoshidaMidnightDriver
-    - id: CheeburbrCdDiskMittsiesVitality
-    - id: CheeburbrCdDiskQuestionableSlightlyStoopid
-    - id: CheeburbrCdDiskTameImpalaTheLessIKnowTheBetter
-    - id: CheeburbrCdDiskWolfmotherLoveTrain
-    - id: CheeburbrCdDiskPaulKalkbrennerStromaeQueCeSoitClair
-    - id: CheeburbrCdDiskRoseBrunoMarsApt
-    - id: CheeburbrCdDiskSelenaGomezTheSceneLoveYouLikeALoveSong
-    - id: CheeburbrCdDiskSherylCrowRealGone
-    - id: CheeburbrCdDiskShihokoHirataHeartbeatHeartbreak
-    - id: CheeburbrCdDiskSkverVilni
-    - id: CheeburbrCdDiskSpandauBalletGold
-    - id: CheeburbrCdDiskStromaeSante
-    - id: CheeburbrCdDiskSuunsUpPastTheNursery
-    - id: CheeburbrCdDiskSynapsonOumouSangareBensema
-    - id: CheeburbrCdDiskSynapsonTimDupLassToujours
-    - id: CheeburbrCdDiskTheChordsShBoom
-    - id: CheeburbrCdDiskTheRahBandMessagesFromTheStars
-    - id: CheeburbrCdDiskTheTemptationsAintNoSunSinceYouveBeenGone
-    - id: CheeburbrCdDiskTheTemptationsBallOfConfusion
-    - id: CheeburbrCdDiskThmkMolod
-    - id: CheeburbrCdDiskTikZapahWar
-    - id: CheeburbrCdDiskTwistedSisterKingOfTheFools
-    - id: CheeburbrCdDiskVariousArtistsBosanskaArtiljerija
-    - id: CheeburbrCdDiskWhiteZombieImYourBoogieman
-    - id: CheeburbrCdDiskWoodkidIron
+    - id: BrbrDiskCaseAlexandraStanMrSaxobeat
+    - id: BrbrDiskCaseAzumiTakahashiLotusJuiceItsGoingDownNow
+    - id: BrbrDiskCaseBonnieTylerHoldingOutForAHero
+    - id: BrbrDiskCaseBettaLemmeBambola
+    - id: BrbrDiskCaseBillyIdolEyesWithoutAFace
+    - id: BrbrDiskCaseBlackSabbathLadyEvil
+    - id: BrbrDiskCaseBritneySpearsBabyOneMoreTime
+    - id: BrbrDiskCaseCalogeroPassiFaceALaMer
+    - id: BrbrDiskCaseColdplayAdventureOfALifetime
+    - id: BrbrDiskCaseDavidGuettaBebeRexhaJBalvinSayMyName
+    - id: BrbrDiskCaseDepecheModePersonalJesus
+    - id: BrbrDiskCaseDrPhonicsCodeRed
+    - id: BrbrDiskCaseDuranDuranInvisible
+    - id: BrbrDiskCaseEltonJohnImStillStanding
+    - id: BrbrDiskCaseEurythmicsSweetDreamsAreMadeOfThis
+    - id: BrbrDiskCaseEveryMoveAPictureSignsOfLife
+    - id: BrbrDiskCaseFasionDansez
+    - id: BrbrDiskCaseFloRidaWhistle
+    - id: BrbrDiskCaseGaryNumanMe
+    - id: BrbrDiskCaseGaryNumanTubewayArmyAreFriendsElectric
+    - id: BrbrDiskCaseGrandCorpsMaladeBertholletCheminsDeTraverse
+    - id: BrbrDiskCaseGwenStefaniAkonTheSweetEscape
+    - id: BrbrDiskCaseHieroglyphicsLetItRoll
+    - id: BrbrDiskCaseHowlinJacksonJellyRollBlues
+    - id: BrbrDiskCaseInfectedMushroomNeverMind
+    - id: BrbrDiskCaseJanValtaAdamSporkaRattayFeasts
+    - id: BrbrDiskCaseJourneyWhosCryingNow
+    - id: BrbrDiskCaseJustinBieberLudacrisBaby
+    - id: BrbrDiskCaseKatyPerryIKissedAGirl
+    - id: BrbrDiskCaseLadyGagaTheDeadDance
+    - id: BrbrDiskCaseMadHeads
+    - id: BrbrDiskCaseManeskinBeggin
+    - id: BrbrDiskCaseMasayoshiTakanakaBrasilianSkies
+    - id: BrbrDiskCaseMichaelJacksonRockWithYou
+    - id: BrbrDiskCaseMidgeUreTheManWhoSoldTheWorld
+    - id: BrbrDiskCaseMichaelSembelloManiacFromFlashdance
+    - id: BrbrDiskCaseMinakoYoshidaMidnightDriver
+    - id: BrbrDiskCaseMittsiesVitality
+    - id: BrbrDiskCaseQuestionableSlightlyStoopid
+    - id: BrbrDiskCaseTameImpalaTheLessIKnowTheBetter
+    - id: BrbrDiskCaseWolfmotherLoveTrain
+    - id: BrbrDiskCasePaulKalkbrennerStromaeQueCeSoitClair
+    - id: BrbrDiskCaseRoseBrunoMarsApt
+    - id: BrbrDiskCaseSelenaGomezTheSceneLoveYouLikeALoveSong
+    - id: BrbrDiskCaseSherylCrowRealGone
+    - id: BrbrDiskCaseShihokoHirataHeartbeatHeartbreak
+    - id: BrbrDiskCaseSkverVilni
+    - id: BrbrDiskCaseSpandauBalletGold
+    - id: BrbrDiskCaseStromaeSante
+    - id: BrbrDiskCaseSuunsUpPastTheNursery
+    - id: BrbrDiskCaseSynapsonOumouSangareBensema
+    - id: BrbrDiskCaseSynapsonTimDupLassToujours
+    - id: BrbrDiskCaseTheChordsShBoom
+    - id: BrbrDiskCaseTheRahBandMessagesFromTheStars
+    - id: BrbrDiskCaseTheTemptationsAintNoSunSinceYouveBeenGone
+    - id: BrbrDiskCaseTheTemptationsBallOfConfusion
+    - id: BrbrDiskCaseThmkMolod
+    - id: BrbrDiskCaseTikZapahWar
+    - id: BrbrDiskCaseTwistedSisterKingOfTheFools
+    - id: BrbrDiskCaseVariousArtistsBosanskaArtiljerija
+    - id: BrbrDiskCaseWhiteZombieImYourBoogieman
+    - id: BrbrDiskCaseWoodkidIron

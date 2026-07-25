@@ -1,5 +1,5 @@
 - type: cargoProduct
-  id: CheeburbrMusicCds
+  id: BrbrMusicCds
   icon:
     sprite: _Cheeburbr/Objects/Misc/cd.rsi
     state: icon
