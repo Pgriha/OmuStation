@@ -1,0 +1,576 @@
+# Диски варто зберігати у коробочках для дисків, як не дивно. TODO: Додати більше варіацій
+- type: entity
+  parent: DiskCase
+  id: BrbrDiskCase
+  name: коробчка для диска
+  description: Кейсик для зберігання компакт дисків. Від нього тхне тим самим дешевим пластиком з ринку!
+  suffix: Сирбурбер
+  components:
+  - type: Storage
+    grid:
+    - 0,0,0,1
+    maxItemSize: Small
+    whitelist:
+      tags:
+        - Document
+        - CoordinatesDisk
+        - CD
+
+## Музика
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseAlexandraStanMrSaxobeat
+  name: коробчка з диском (Alexandra Stan – Mr Saxobeat)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskAlexandraStanMrSaxobeat
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseAzumiTakahashiLotusJuiceItsGoingDownNow
+  name: коробчка з диском (Azumi Takahashi & Lotus Juice – It's Going Down Now)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskAzumiTakahashiLotusJuiceItsGoingDownNow
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseBonnieTylerHoldingOutForAHero
+  name: коробчка з диском (Bonnie Tyler – Holding Out For A Hero)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskBonnieTylerHoldingOutForAHero
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseBettaLemmeBambola
+  name: коробчка з диском (Betta Lemme – Bambola)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskBettaLemmeBambola
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseBillyIdolEyesWithoutAFace
+  name: коробчка з диском (Billy Idol – Eyes Without A Face)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskBillyIdolEyesWithoutAFace
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseBlackSabbathLadyEvil
+  name: коробчка з диском (Black Sabbath – Lady Evil)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskBlackSabbathLadyEvil
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseBritneySpearsBabyOneMoreTime
+  name: коробчка з диском (Britney Spears – Baby One More Time)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskBritneySpearsBabyOneMoreTime
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseCalogeroPassiFaceALaMer
+  name: коробчка з диском (Calogero & Passi – Face a la mer)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskCalogeroPassiFaceALaMer
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseColdplayAdventureOfALifetime
+  name: коробчка з диском (Coldplay – Adventure of a Lifetime)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskColdplayAdventureOfALifetime
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseDavidGuettaBebeRexhaJBalvinSayMyName
+  name: коробчка з диском (David Guetta, Bebe Rexha & J Balvin – Say My Name)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskDavidGuettaBebeRexhaJBalvinSayMyName
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseDepecheModePersonalJesus
+  name: коробчка з диском (Depeche Mode – Personal Jesus)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskDepecheModePersonalJesus
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseDrPhonicsCodeRed
+  name: коробчка з диском (Dr Phonics – Code Red)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskDrPhonicsCodeRed
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseDuranDuranInvisible
+  name: коробчка з диском (Duran Duran – INVISIBLE)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskDuranDuranInvisible
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseEltonJohnImStillStanding
+  name: коробчка з диском (Elton John – I'm Still Standing)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskEltonJohnImStillStanding
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseEurythmicsSweetDreamsAreMadeOfThis
+  name: коробчка з диском (Eurythmics – Sweet Dreams Are Made of This)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskEurythmicsSweetDreamsAreMadeOfThis
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseEveryMoveAPictureSignsOfLife
+  name: коробчка з диском (Every Move A Picture – Signs Of Life)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskEveryMoveAPictureSignsOfLife
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseFasionDansez
+  name: коробчка з диском (Fasion – Dansez)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskFasionDansez
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseFloRidaWhistle
+  name: коробчка з диском (Flo Rida – Whistle)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskFloRidaWhistle
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseGaryNumanMe
+  name: коробчка з диском (Gary Numan – ME)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskGaryNumanMe
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseGaryNumanTubewayArmyAreFriendsElectric
+  name: коробчка з диском (Gary Numan & Tubeway Army – Are Friends Electric)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskGaryNumanTubewayArmyAreFriendsElectric
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseGrandCorpsMaladeBertholletCheminsDeTraverse
+  name: коробчка з диском (Grand Corps Malade & Berthollet – Chemins de traverse)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskGrandCorpsMaladeBertholletCheminsDeTraverse
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseGwenStefaniAkonTheSweetEscape
+  name: коробчка з диском (Gwen Stefani & Akon – The Sweet Escape)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskGwenStefaniAkonTheSweetEscape
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseHieroglyphicsLetItRoll
+  name: коробчка з диском (Hieroglyphics – Let It Roll)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskHieroglyphicsLetItRoll
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseHowlinJacksonJellyRollBlues
+  name: коробчка з диском (Howlin Jackson – Jelly Roll Blues)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskHowlinJacksonJellyRollBlues
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseInfectedMushroomNeverMind
+  name: коробчка з диском (Infected Mushroom – Never Mind)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskInfectedMushroomNeverMind
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseJanValtaAdamSporkaRattayFeasts
+  name: коробчка з диском (Jan Valta & Adam Sporka – Rattay Feasts)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskJanValtaAdamSporkaRattayFeasts
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseJourneyWhosCryingNow
+  name: коробчка з диском (Journey – Who's Crying Now)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskJourneyWhosCryingNow
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseJustinBieberLudacrisBaby
+  name: коробчка з диском (Justin Bieber & Ludacris – Baby)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskJustinBieberLudacrisBaby
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseKatyPerryIKissedAGirl
+  name: коробчка з диском (Katy Perry – I Kissed A Girl)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskKatyPerryIKissedAGirl
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseLadyGagaTheDeadDance
+  name: коробчка з диском (Lady Gaga – The Dead Dance)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskLadyGagaTheDeadDance
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseMadHeads
+  name: коробчка з диском (Mad Heads – Пробки)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskMadHeads
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseManeskinBeggin
+  name: коробчка з диском (Maneskin – Beggin)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskManeskinBeggin
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseMasayoshiTakanakaBrasilianSkies
+  name: коробчка з диском (Masayoshi Takanaka – Brasilian Skies)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskMasayoshiTakanakaBrasilianSkies
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseMichaelJacksonRockWithYou
+  name: коробчка з диском (Michael Jackson – Rock With You)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskMichaelJacksonRockWithYou
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseMidgeUreTheManWhoSoldTheWorld
+  name: коробчка з диском (Midge Ure – The Man Who Sold the World)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskMidgeUreTheManWhoSoldTheWorld
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseMichaelSembelloManiacFromFlashdance
+  name: коробчка з диском (Michael Sembello – Maniac From Flashdance)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskMichaelSembelloManiacFromFlashdance
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseMinakoYoshidaMidnightDriver
+  name: коробчка з диском (Minako Yoshida – Midnight Driver)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskMinakoYoshidaMidnightDriver
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseMittsiesVitality
+  name: коробчка з диском (Mittsies – Vitality)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskMittsiesVitality
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseQuestionableSlightlyStoopid
+  name: коробчка з диском (Questionable – Slightly Stoopid)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskQuestionableSlightlyStoopid
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseTameImpalaTheLessIKnowTheBetter
+  name: коробчка з диском (Tame Impala – The Less I Know The Better)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskTameImpalaTheLessIKnowTheBetter
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseWolfmotherLoveTrain
+  name: коробчка з диском (Wolfmother – Love Train)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskWolfmotherLoveTrain
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCasePaulKalkbrennerStromaeQueCeSoitClair
+  name: коробчка з диском (Paul Kalkbrenner & Stromae – Que ce soit clair)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskPaulKalkbrennerStromaeQueCeSoitClair
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseRoseBrunoMarsApt
+  name: коробчка з диском (Rose & Bruno Mars – APT)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskRoseBrunoMarsApt
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseSelenaGomezTheSceneLoveYouLikeALoveSong
+  name: коробчка з диском (Selena Gomez & The Scene – Love You Like A Love Song)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskSelenaGomezTheSceneLoveYouLikeALoveSong
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseSherylCrowRealGone
+  name: коробчка з диском (Sheryl Crow – Real Gone)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskSherylCrowRealGone
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseShihokoHirataHeartbeatHeartbreak
+  name: коробчка з диском (Shihoko Hirata – Heartbeat Heartbreak)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskShihokoHirataHeartbeatHeartbreak
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseSkverVilni
+  name: коробчка з диском (Сквер – Вільні)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskSkverVilni
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseSpandauBalletGold
+  name: коробчка з диском (Spandau Ballet – Gold)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskSpandauBalletGold
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseStromaeSante
+  name: коробчка з диском (Stromae – Sante)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskStromaeSante
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseSuunsUpPastTheNursery
+  name: коробчка з диском (Suuns – Up Past The Nursery)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskSuunsUpPastTheNursery
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseSynapsonOumouSangareBensema
+  name: коробчка з диском (Synapson & Oumou Sangare – Bensema)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskSynapsonOumouSangareBensema
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseSynapsonTimDupLassToujours
+  name: коробчка з диском (Synapson, Tim Dup & Lass – Toujours)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskSynapsonTimDupLassToujours
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseTheChordsShBoom
+  name: коробчка з диском (The Chords – Sh-Boom)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskTheChordsShBoom
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseTheRahBandMessagesFromTheStars
+  name: коробчка з диском (The RAH Band – Messages From The Stars)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskTheRahBandMessagesFromTheStars
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseTheTemptationsAintNoSunSinceYouveBeenGone
+  name: коробчка з диском (The Temptations – Ain't No Sun Since You've Been Gone)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskTheTemptationsAintNoSunSinceYouveBeenGone
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseTheTemptationsBallOfConfusion
+  name: коробчка з диском (The Temptations – Ball Of Confusion)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskTheTemptationsBallOfConfusion
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseThmkMolod
+  name: коробчка з диском (ТНМК – Молодець)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskThmkMolod
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseTikZapahWar
+  name: коробчка з диском (ТІК – Запах Війни)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskTikZapahWar
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseTwistedSisterKingOfTheFools
+  name: коробчка з диском (Twisted Sister – King of the Fools)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskTwistedSisterKingOfTheFools
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseVariousArtistsBosanskaArtiljerija
+  name: коробчка з диском (Народна Пісня – Bosanska artiljerija)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskVariousArtistsBosanskaArtiljerija
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseWhiteZombieImYourBoogieman
+  name: коробчка з диском (White Zombie – I'm Your Boogieman)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskWhiteZombieImYourBoogieman
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseWoodkidIron
+  name: коробчка з диском (Woodkid – Iron)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskWoodkidIron
