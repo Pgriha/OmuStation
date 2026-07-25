@@ -22053,21 +22053,21 @@ entities:
     - type: Transform
       pos: 0.23827091,48.47736
       parent: 2
-- proto: BrBrPlushieMoffMiriadeyaScience
+- proto: BrbrPlushieMoffMiriadeyaScience
   entities:
   - uid: 1376
     components:
     - type: Transform
       pos: 4.237986,-28.924686
       parent: 2
-- proto: BrBrPlushieMoffMirkaBar
+- proto: BrbrPlushieMoffMirkaBar
   entities:
   - uid: 1377
     components:
     - type: Transform
       pos: 5.734248,-28.779343
       parent: 2
-- proto: BrBrPlushieMoffRanchBar
+- proto: BrbrPlushieMoffRanchBar
   entities:
   - uid: 1378
     components:

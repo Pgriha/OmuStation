@@ -17037,21 +17037,21 @@ entities:
     - type: Transform
       pos: -19.547537,43.714233
       parent: 2
-- proto: BrBrPlushieMoffMiriadeyaBar
+- proto: BrbrPlushieMoffMiriadeyaBar
   entities:
   - uid: 1035
     components:
     - type: Transform
       pos: 8.5,-3.5
       parent: 2
-- proto: BrBrPlushieMoffMirkaService
+- proto: BrbrPlushieMoffMirkaService
   entities:
   - uid: 1036
     components:
     - type: Transform
       pos: -13.5,11.5
       parent: 2
-- proto: BrBrPlushieMoffRanchBotanic
+- proto: BrbrPlushieMoffRanchBotanic
   entities:
   - uid: 1037
     components:
