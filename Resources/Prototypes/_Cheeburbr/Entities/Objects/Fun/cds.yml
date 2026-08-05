@@ -8,7 +8,7 @@
     sprite: _Cheeburbr/Objects/Misc/cd.rsi
     state: icon
   - type: Item
-    size: Small
+    size: Tiny
 
 - type: entity
   parent: BrbrBaseCdDisk

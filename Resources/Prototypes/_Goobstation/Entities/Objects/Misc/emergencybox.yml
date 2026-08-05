@@ -60,6 +60,7 @@
           - FoodSnack
           - BreadEmergency
           - FoodTinMRE
+          - Boll # Cheeburbr. Для бавовни
       flare:
         ejectOnInteract: false
         whitelist:

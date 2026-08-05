@@ -3,17 +3,16 @@
   parent: DiskCase
   id: BrbrDiskCase
   name: коробчка для диска
-  description: Кейсик для зберігання компакт дисків. Від нього тхне тим самим дешевим пластиком з ринку!
+  description: Кейсик для зберігання компакт дисків. Туди можна покласти одночасно 2 диски або диск та папірець. Від нього тхне тим самим дешевим пластиком з ринку!
   suffix: Сирбурбер
   components:
-  - type: Storage
+  - type: Storage # Місце під 2 диски або папірець
     grid:
     - 0,0,0,1
-    maxItemSize: Small
+    maxItemSize: Tiny
     whitelist:
       tags:
         - Document
-        - CoordinatesDisk
         - CD
 
 ## Музика

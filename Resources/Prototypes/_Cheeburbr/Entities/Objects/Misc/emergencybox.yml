@@ -1,0 +1,60 @@
+- type: entity
+  parent: BoxSurvivalSlots
+  id: BrbrBoxSurvivalSlotsMoth
+  suffix: Сирбурбер, для Молей
+  components:
+  - type: ContainerFill
+    containers:
+      water:
+      - DrinkWaterBottleFull
+      nutriblock:
+      - BrbrBigCottonBoll
+      flare:
+      - Flare
+      tank:
+      - EmergencyOxygenTankFilled
+      mask:
+      - ClothingMaskBreath
+      emergencypen:
+      - EmergencyMedipen
+      spacepen:
+      - SpaceMedipen
+
+# Як звичайна бавовна, але х5, бо стаки нормально не їдяться
+- type: entity
+  parent: MaterialBase
+  id: BrbrBigCottonBoll
+  name: великий шматок бавовни
+  suffix: Сирбурбер, для аварійних
+  components:
+  - type: Sprite
+    state: cotton_2
+  - type: Edible
+    requiresSpecialDigestion: true
+  - type: FlavorProfile
+    flavors:
+    - fiber
+  - type: SolutionContainerManager
+    solutions:
+      food:
+        maxVol: 25
+        reagents:
+        - ReagentId: Fiber
+          Quantity: 25
+  - type: Extractable
+    juiceSolution:
+      reagents:
+      - ReagentId: Fiber
+        Quantity: 15
+  - type: Tag
+    tags:
+      - ClothMade
+      - RawMaterial
+      - DroneUsable # Goobstation
+      - Boll
+  - type: Material
+  - type: PhysicalComposition
+    materialComposition:
+      Cotton: 500
+  - type: Item
+    heldPrefix: cotton

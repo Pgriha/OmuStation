@@ -330,6 +330,7 @@
   - EmergencySilicon
   - EmergencyOxygenCarnivore # Omu
   - EmergencyOxygenEthanol # Omu
+  - EmergencyMoth # Cheeburbr
 
 # nitrogen or oxygen tank, depending on what your species needs
 - type: loadoutGroup
