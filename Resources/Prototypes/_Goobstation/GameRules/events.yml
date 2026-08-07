@@ -35,7 +35,7 @@
     weight: 4.5 # Uncommon
     earliestStart: 30
     reoccurrenceDelay: 30
-    minimumPlayers: 4
+    minimumPlayers: 0 # Cheeburbr. 4 в оригіналі
     duration: null
   - type: SpaceSpawnRule
     spawnDistance: 0
@@ -54,7 +54,7 @@
   components:
   - type: StationEvent
     startAnnouncement: station-event-job-distribution-error-announcement
-    minimumPlayers: 25
+    minimumPlayers: 0 # Cheeburbr. 25 в оригіналі
     weight: 3
     duration: 1
   - type: GameRule

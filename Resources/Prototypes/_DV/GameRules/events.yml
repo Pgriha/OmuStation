@@ -11,7 +11,7 @@
   components:
   - type: StationEvent
     earliestStart: 15
-    minimumPlayers: 15
+    minimumPlayers: 0 # Cheeburbr. 15 в оригіналі
     weight: 4
     duration: 30
     eventType: Neutral
@@ -84,7 +84,7 @@
   components:
   - type: StationEvent
     earliestStart: 15
-    minimumPlayers: 25
+    minimumPlayers: 10 # Cheeburbr. 25 в оригіналі
     weight: 3
     maxOccurrences: 1
     startAnnouncement: station-event-communication-interception

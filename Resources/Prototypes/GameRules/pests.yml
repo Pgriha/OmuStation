@@ -67,7 +67,7 @@
     earliestStart: 15
     weight: 6
     duration: 30 # DeltaV: was 50, used as a delay now
-    minimumPlayers: 30 # Hopefully this is enough for the Rat King's potential Army (it was not, raised from 15 -> 30)
+    minimumPlayers: 10 # Cheeburbr. 30 в оригіналі
     chaos: # Goobstation
       Mess: 10
       Hostile: 1 # low chance to spawn rat king
@@ -164,7 +164,7 @@
     earliestStart: 15
     weight: 6
     duration: 30 # DeltaV: was 50, used as a delay now
-    minimumPlayers: 30
+    minimumPlayers: 0 # Cheeburbr. 30 в оригіналі
     chaos: # Goobstation
       Mess: 5
       Hostile: 1 # the very low gib snail prob
