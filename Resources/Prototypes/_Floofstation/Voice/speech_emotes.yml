@@ -40,6 +40,7 @@
   whitelist:
     tags:
       - HarpyEmotes
+      - AllulaloEmotes # Omu
   blacklist:
     components:
       - BorgChassis

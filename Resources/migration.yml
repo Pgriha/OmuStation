@@ -1149,3 +1149,6 @@ MouseTimedSpawner: null
 # 2026-07-24. Cheeburbr. Для мапінгу
 ChairOfficeDark: SpawnVehicleChairOfficeDark
 ChairOfficeLight: SpawnVehicleChairOfficeLight
+
+# 2026-07-27; omu - remove GhostBarSpawner
+GhostBarSpawner: null # Omu
