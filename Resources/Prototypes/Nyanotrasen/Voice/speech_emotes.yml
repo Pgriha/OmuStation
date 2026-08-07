@@ -24,7 +24,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [шипить.]
+  chatMessages: [шипить]
   chatTriggers:
     - hiss
     - hisses
@@ -46,7 +46,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [нявкає.]
+  chatMessages: [нявкає]
   chatTriggers:
     - meow
     - meows
@@ -84,7 +84,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [мєвкає.]
+  chatMessages: [мєвкає]
   chatTriggers:
     - mew
     - mews
@@ -107,7 +107,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [гарчить.]
+  chatMessages: [гарчить]
   chatTriggers:
     - growl
     - growls
@@ -131,7 +131,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [мурчить.]
+  chatMessages: [мурчить]
   chatTriggers:
     - purr
     - purrs

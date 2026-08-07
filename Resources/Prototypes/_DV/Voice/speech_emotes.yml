@@ -22,7 +22,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [дзвенить.]
+  chatMessages: [дзвенить]
   chatTriggers:
     - ring
     - rings
@@ -42,7 +42,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [піукає.]
+  chatMessages: [піукає]
   chatTriggers:
     - pew
     - pews
@@ -60,7 +60,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [стріляє.]
+  chatMessages: [стріляє]
   chatTriggers:
     - bangs
     - bang
@@ -92,7 +92,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [гуркоче.]
+  chatMessages: [гуркоче]
   chatTriggers:
     - revs
     - rev
@@ -121,7 +121,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [каркає.]
+  chatMessages: [каркає]
   chatTriggers:
     - caws
     - caw
@@ -143,7 +143,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [гавкає.]
+  chatMessages: [гавкає]
   chatTriggers:
     - bark
     - barks
@@ -168,7 +168,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [ричить.]
+  chatMessages: [ричить]
   chatTriggers:
     - snarl
     - snarls
@@ -191,7 +191,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [скиглить.]
+  chatMessages: [скиглить]
   chatTriggers:
     - whine
     - whines
@@ -214,7 +214,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [виє.]
+  chatMessages: [виє]
   chatTriggers:
     - howl
     - howls
@@ -235,7 +235,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [підвиває.]
+  chatMessages: [підвиває]
   chatTriggers:
     - awoo
     - awoos
@@ -258,7 +258,7 @@
   blacklist:
     components:
     - BorgChassis
-  chatMessages: [скреготить зубами.]
+  chatMessages: [скреготить зубами]
   chatTriggers:
     - gnash
     - gnashes

@@ -20,11 +20,11 @@ chat-emote-name-mars = Маркати
 chat-emote-msg-fart = farts.
 chat-emote-msg-fart-inhale = breathes in a big fart.
 chat-emote-msg-fart-super = super farts.
-chat-emote-msg-flap = тріпотить крилами.
+chat-emote-msg-flap = тріпотить крилами
 chat-emote-msg-trill = трелить!
 chat-emote-msg-warble = тьохкає!
-chat-emote-msg-wurble = вурчить.
-chat-emote-msg-mars = маркає.
+chat-emote-msg-wurble = вурчить
+chat-emote-msg-mars = маркає
 chat-emote-msg-bagawk = кудахкає!
 
 
