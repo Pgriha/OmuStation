@@ -9,7 +9,7 @@
     earliestStart: 15
     weight: 4
     duration: 30
-    minimumPlayers: 15
+    minimumPlayers: 3 # Cheeburbr. 15 в оригіналі
     eventType: Chaotic
   - type: GameRule
     chaosScore: 30
@@ -31,7 +31,7 @@
     earliestStart: 15
     weight: 3
     duration: 30
-    minimumPlayers: 15
+    minimumPlayers: 5 # Cheeburbr. 15 в оригіналі
     eventType: Chaotic
   - type: GameRule
     chaosScore: 30
@@ -68,7 +68,7 @@
     earliestStart: 15
     weight: 1
     duration: 30
-    minimumPlayers: 15
+    minimumPlayers: 0 # Cheeburbr. 15 в оригіналі
     eventType: Chaotic
   - type: GameRule
     chaosScore: 30
@@ -90,7 +90,7 @@
     earliestStart: 15
     weight: 2
     duration: 30
-    minimumPlayers: 15
+    minimumPlayers: 3 # Cheeburbr. 15 в оригіналі
     eventType: Chaotic
   - type: GameRule
     chaosScore: 30
@@ -178,7 +178,7 @@
     earliestStart: 15
     weight: 2
     duration: 30
-    minimumPlayers: 15
+    minimumPlayers: 3 # Cheeburbr. 15 в оригіналі
     eventType: Chaotic
   - type: GameRule
     chaosScore: 30
@@ -200,7 +200,7 @@
     earliestStart: 15
     weight: 2
     duration: 30
-    minimumPlayers: 15
+    minimumPlayers: 3 # Cheeburbr. 15 в оригіналі
     eventType: Chaotic
   - type: GameRule
     chaosScore: 30
@@ -222,7 +222,7 @@
     earliestStart: 15
     weight: 2
     duration: 30
-    minimumPlayers: 15
+    minimumPlayers: 3 # Cheeburbr. 15 в оригіналі
     eventType: Chaotic
   - type: GameRule
     chaosScore: 30
@@ -244,7 +244,7 @@
     earliestStart: 15
     weight: 1
     duration: 30
-    minimumPlayers: 15
+    minimumPlayers: 3 # Cheeburbr. 15 в оригіналі
     eventType: Chaotic
   - type: GameRule
     chaosScore: 30
