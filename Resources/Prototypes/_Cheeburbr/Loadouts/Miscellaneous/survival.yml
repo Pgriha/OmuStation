@@ -6,10 +6,55 @@
     - Moth
 
 - type: loadout
-  id: EmergencyMoth
+  id: EmergencyOxygenMoth
   effects:
   - !type:GroupLoadoutEffect
     proto: EffectSpeciesMoth
   storage:
     back:
     - BrbrBoxSurvivalSlotsMoth
+
+- type: loadout
+  id: EmergencyOxygenExtendedMoth
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: EffectSpeciesMoth
+  storage:
+    back:
+    - BrbrBoxSurvivalSlotsEngineeringMoth
+
+- type: loadout
+  id: EmergencyOxygenSecurityMoth
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: EffectSpeciesMoth
+  storage:
+    back:
+    - BrbrBoxSurvivalSlotsSecurityMoth
+
+- type: loadout
+  id: EmergencyOxygenMedicalMoth
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: EffectSpeciesMoth
+  storage:
+    back:
+    - BrbrBoxSurvivalSlotsMedicalMoth
+
+- type: loadout
+  id: EmergencyOxygenSyndicateMoth
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: EffectSpeciesMoth
+  storage:
+    back:
+    - BrbrBoxSurvivalSlotsSyndicateMoth
+
+- type: loadout
+  id: EmergencyOxygenClownMoth
+  effects:
+  - !type:GroupLoadoutEffect
+    proto: EffectSpeciesMoth
+  storage:
+    back:
+    - BrbrBoxHugSlotsMoth

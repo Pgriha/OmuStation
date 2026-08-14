@@ -20,6 +20,116 @@
       spacepen:
       - SpaceMedipen
 
+- type: entity
+  parent: BoxSurvivalSlotsEngineering
+  id: BrbrBoxSurvivalSlotsEngineeringMoth
+  suffix: Сирбурбер, Розширений, для Молей
+  components:
+  - type: ContainerFill
+    containers:
+      water:
+      - DrinkWaterBottleFull
+      nutriblock:
+      - BrbrBigCottonBoll
+      flare:
+      - Flare
+      tank:
+      - ExtendedEmergencyOxygenTankFilled
+      mask:
+      - ClothingMaskBreath
+      emergencypen:
+      - EmergencyMedipen
+      spacepen:
+      - SpaceMedipen
+
+- type: entity
+  parent: BoxSurvivalSlotsSecurity
+  id: BrbrBoxSurvivalSlotsSecurityMoth
+  suffix: Сирбурбер, СБ, для Молей
+  components:
+  - type: ContainerFill
+    containers:
+      water:
+      - DrinkWaterBottleFull
+      nutriblock:
+      - BrbrBigCottonBoll
+      flare:
+      - Flare
+      tank:
+      - ExtendedEmergencyOxygenTankFilled
+      mask:
+      - ClothingMaskGasSecurity
+      emergencypen:
+      - EmergencyMedipen
+      spacepen:
+      - SpaceMedipen
+
+- type: entity
+  parent: BoxSurvivalSlotsMedical
+  id: BrbrBoxSurvivalSlotsMedicalMoth
+  suffix: Сирбурбер, Медичний, для Молей
+  components:
+  - type: ContainerFill
+    containers:
+      water:
+      - DrinkWaterBottleFull
+      nutriblock:
+      - BrbrBigCottonBoll
+      flare:
+      - Flare
+      tank:
+      - EmergencyOxygenTankFilled
+      mask:
+      - ClothingMaskBreathMedical
+      emergencypen:
+      - EmergencyMedipen
+      spacepen:
+      - SpaceMedipen
+
+- type: entity
+  parent: BoxSurvivalSlotsSyndicate
+  id: BrbrBoxSurvivalSlotsSyndicateMoth
+  suffix: Сирбурбер, Синдикат, для Молей
+  components:
+  - type: ContainerFill
+    containers:
+      water:
+      - DrinkWaterBottleFull
+      nutriblock:
+      - BrbrBigCottonBoll
+      flare:
+      - Flare
+      tank:
+      - ExtendedEmergencyOxygenTankFilled
+      mask:
+      - ClothingMaskGasSyndicate
+      emergencypen:
+      - EmergencyMedipen
+      spacepen:
+      - SpaceMedipen
+
+- type: entity
+  parent: BoxHugSlots
+  id: BrbrBoxHugSlotsMoth
+  suffix: Сирбурбер, Клоун, для Молей
+  components:
+  - type: ContainerFill
+    containers:
+      water:
+      - DrinkWaterBottleFull
+      nutriblock:
+      - BrbrBigCottonBoll
+      flare:
+      - Flare
+      tank:
+      - EmergencyFunnyOxygenTankFilled
+      mask:
+      - ClothingMaskBreath
+      emergencypen:
+      - EmergencyMedipen
+      spacepen:
+      - SpaceMedipen
+
 # Як звичайна бавовна, але х5, бо стаки нормально не їдяться
 - type: entity
   parent: MaterialBase

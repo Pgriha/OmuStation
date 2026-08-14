@@ -333,7 +333,7 @@
   - EmergencySilicon
   - EmergencyOxygenCarnivore # Omu
   - EmergencyOxygenEthanol # Omu
-  - EmergencyMoth # Cheeburbr
+  - EmergencyOxygenMoth # Cheeburbr
 
 # nitrogen or oxygen tank, depending on what your species needs
 - type: loadoutGroup
@@ -815,6 +815,7 @@
   - EmergencySilicon
   - EmergencyOxygenCarnivoreClown # Omu
   - EmergencyOxygenEthanolClown # Omu
+  - EmergencyOxygenClownMoth # Cheeburbr
 
 - type: loadoutGroup
   id: MimeHead
@@ -1242,6 +1243,7 @@
   - EmergencySilicon
   - EmergencyOxygenCarnivoreExtended # Omu
   - EmergencyOxygenEthanolExtended # Omu
+  - EmergencyOxygenExtendedMoth # Cheeburbr
 
 # Science
 - type: loadoutGroup
@@ -1600,6 +1602,7 @@
   - EmergencySilicon
   - EmergencyOxygenCarnivoreSecurity # Omu
   - EmergencyOxygenEthanolSecurity # Omu
+  - EmergencyOxygenSecurityMoth # Cheeburbr
 
 - type: loadoutGroup
   id: SecurityStar
@@ -1882,6 +1885,7 @@
   - EmergencySilicon
   - EmergencyOxygenCarnivoreMedical # Omu
   - EmergencyOxygenEthanolMedical # Omu
+  - EmergencyOxygenMedicalMoth # Cheeburbr
 
 # Wildcards
 - type: loadoutGroup
@@ -1931,6 +1935,7 @@
   - EmergencySilicon
   - EmergencyOxygenCarnivoreSyndicate # Omu
   - EmergencyOxygenEthanolSyndicate # Omu
+  - EmergencyOxygenSyndicateMoth # Cheeburbr
 
 - type: loadoutGroup
   id: GroupSpeciesBreathTool
