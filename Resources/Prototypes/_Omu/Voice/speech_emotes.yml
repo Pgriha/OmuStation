@@ -92,6 +92,7 @@
   whitelist:
     tags:
     - AllulaloEmotes
+    - HarpyEmotes
   blacklist:
     components:
     - BorgChassis
