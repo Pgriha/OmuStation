@@ -79,8 +79,8 @@ public sealed class VentCrittersRule : StationEventSystem<VentCrittersRuleCompon
             return;
 
         var players = _antag.GetTotalPlayerCount(_player.Sessions);
-        var min = comp.Min * players / comp.PlayerRatio;
-        var max = comp.Max * players / comp.PlayerRatio;
+        var min = comp.Min; // Cheeburbr. "* players / comp.PlayerRatio" прибрано
+        var max = comp.Max; // Cheeburbur
         var count = Math.Max(RobustRandom.Next(min, max), 1);
         // Omu edit start
         var notice = $"Spawning {count} critters for {ToPrettyString(uid):rule}";
