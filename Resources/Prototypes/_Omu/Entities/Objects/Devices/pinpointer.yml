@@ -20,12 +20,12 @@
     canExamine: false
     canTargetMultiple: false
     respectsCrossMaps: true
-#    whitelist: – Cheeburbr. Трекер можна налаштувати на будь кого
-#      tags:
-#      - SalvagePinpointer
-#    retargetingWhitelist:
-#      tags:
-#      - SalvagePinpointer
+    whitelist:
+      tags:
+      - WhitelistChameleonIdCard # Cheeburbr. SalvagePinpointer в оригіналі. Трекер можна налаштувати на будь кого
+    retargetingWhitelist:
+      tags:
+      - WhitelistChameleonIdCard # Cheeburbr
   - type: SalvageCrewPinpointer
   - type: Speech
     speechSounds: Borg
