@@ -81,8 +81,8 @@
             Mime: [ 1, 1 ]
             Musician: [ 1, 1 ]
             Reporter: [ 2, 2 ]
-            Boxer: [ 2, 2 ]
-            Zookeeper: [ 1, 1 ]
+#            Boxer: [ 2, 2 ] – видалена зггри
+#            Zookeeper: [ 1, 1 ] – видалена зггри
             RadioHost: [ 1, 1 ]
             Passenger: [ -1, -1 ]
 
