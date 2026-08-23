@@ -78,6 +78,18 @@
       children:
       - id: PlushieThrongler
       - id: PlushieGhostRevenant # You got the god roll, and failed
+    - !type:GroupSelector # Cheeburbr. Наші плюші
+      weight: 0.1 # 1 in >210
+      children:
+      - id: BrbrPlushieMoffMiriadeya
+      - id: BrbrPlushieMoffMiriadeyaBar
+      - id: BrbrPlushieMoffMiriadeyaScience
+      - id: BrbrPlushieMoffMirka
+      - id: BrbrPlushieMoffMirkaBar
+      - id: BrbrPlushieMoffMirkaService
+      - id: BrbrPlushieMoffRanch
+      - id: BrbrPlushieMoffRanchBar
+      - id: BrbrPlushieMoffRanchBotanic
 
 # Weh!
 - type: entityTable

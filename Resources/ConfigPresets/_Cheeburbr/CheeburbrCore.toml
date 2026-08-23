@@ -22,6 +22,7 @@ role_timers = false
 role_whitelist = false
 ipintel_enabled = false
 table_bonk = false
+admin_job_tracking = true
 
 [server]
 #Бр-бр-бр №2

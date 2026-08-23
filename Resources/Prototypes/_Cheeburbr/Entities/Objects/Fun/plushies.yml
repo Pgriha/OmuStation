@@ -13,6 +13,9 @@
       - state: inhand-left
       right:
       - state: inhand-right
+  - type: EmitSoundOnPickup
+    sound:
+      path: /Audio/_Starlight/Voice/Moth/moth_gasp.ogg # Душать бідось
   - type: EmitSoundOnUse
     sound:
       path: /Audio/Voice/Moth/moth_chitter.ogg
@@ -28,7 +31,7 @@
       path: /Audio/Voice/Moth/moth_scream.ogg
   - type: MeleeWeapon
     soundHit: *PlushieMoffSound
-  - type: Food
+  - type: Edible
     useSound: /Audio/Voice/Moth/moth_laugh.ogg
   - type: Extractable
     juiceSolution:

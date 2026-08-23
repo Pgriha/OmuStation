@@ -32,11 +32,6 @@
     - /Audio/Effects/Emotes/clap3.ogg
     - /Audio/Effects/Emotes/clap4.ogg
 
-- type: soundCollection # Cheeburbr. Повернення одиночного хлопка
-  id: ClapSingle
-  files:
-  - /Audio/Effects/Emotes/clap-single.ogg
-
 - type: soundCollection
   id: ClapSingle
   files:

@@ -54,8 +54,7 @@
     - Paper # Cheeburbr
   - type: Feather
   # Cheeburbr start. Жерти пір'я
-  - type: Food
-    solution: food
+  - type: Edible
     delay: 7
     forceFeedDelay: 7
   - type: BadFood
@@ -69,7 +68,6 @@
   - type: FlavorProfile
     flavors:
       - cotton
-  - type: Edible
   - type: Extractable
     grindableSolutionName: food
   # Cheeburbr end
