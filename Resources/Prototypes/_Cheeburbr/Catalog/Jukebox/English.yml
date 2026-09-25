@@ -389,7 +389,7 @@
   name: "[BRBR ENG] Bosanska artiljerija"
   #artist: Народна Пісня
   path:
-    path: "/Audio/_Cheeburbr/Jukebox/English/Various_#artists_Bosanska_artiljerija.ogg"
+    path: "/Audio/_Cheeburbr/Jukebox/English/Various_Artists_Bosanska_artiljerija.ogg"
 
 - type: jukebox
   id: White_Zombie_I_m_Your_Boogieman

@@ -486,6 +486,15 @@
 
 - type: entity
   parent: BrbrDiskCase
+  id: BrbrDiskCaseWolfmotherLoveTrain
+  name: диск-бокс (Wolfmother – Love Train)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskWolfmotherLoveTrain
+
+- type: entity
+  parent: BrbrDiskCase
   id: BrbrDiskCaseTheChordsShBoom
   name: диск-бокс (The Chords – Sh-Boom)
   components:
