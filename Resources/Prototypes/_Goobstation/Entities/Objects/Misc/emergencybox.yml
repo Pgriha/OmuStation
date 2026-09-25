@@ -46,6 +46,7 @@
           - FoodSnack
           - BreadEmergency
           - FoodTinMRE
+          - Wheat #Omu, Ovinia
           - Boll # Cheeburbr. Для бавовни
       flare:
         ejectOnInteract: false
@@ -105,6 +106,7 @@
           - FoodSnack
           - BreadEmergency
           - FoodTinMRE
+          - Wheat #Omu, Ovinia
       flare:
         whitelist:
           tags:

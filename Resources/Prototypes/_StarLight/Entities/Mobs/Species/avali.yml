@@ -33,7 +33,7 @@
         Peckish: 150
         Starving: 100
         Dead: 0
-      baseDecayRate: 0.03
+      baseDecayRate: 0.05 # 0.03 # Omu, update for new base rate
     - type: Thirst
     - type: Icon
       sprite: _Starlight/Mobs/Species/Avali/parts.rsi
@@ -160,6 +160,21 @@
       shiveringHeatRegulation: 2000
       normalBodyTemperature: 261
       thermalRegulationTemperatureThreshold: 1
+#    - type: Stasis # Move this to a organ, Omu.
+#      enterStasisAction: ActionStasisEnter
+#      exitStasisAction: ActionStasisExit
+#      updateInterval: 1s
+#      healingPerUpdate:
+#        types:
+#          Heat: 2
+#          Cold: 2
+#        groups:
+#          Brute: 6
+#      bleedHealPerUpdate: 1.0
+#      critHealingModifier: 2.0
+#      stasisDamageReduction: 0.5
+    - type: StealTarget # Omu
+      stealGroup: StealLittlePerson
     - type: PseudoItem
       storedOffset: 20,0
       shape:
@@ -173,7 +188,7 @@
       defaultChannel: Nexus
       channels:
       - Nexus
-    - type: Preenable # Byrd
+    - type: Preenable #omu port from DV
       featherPrototype: AvaliFeather
 
 # Chirp!

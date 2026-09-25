@@ -7,6 +7,7 @@ chat-emote-name-squee = Пискнути
 chat-emote-name-snort = Фиркнути
 chat-emote-name-gekker = Белькотати
 chat-emote-name-awebo = Авебнути
+chat-emote-name-hoot = Вухнути
 
 # Messages
 chat-emote-msg-reptile-rattle = гримить хвостом
@@ -16,3 +17,4 @@ chat-emote-msg-squee = попискує!
 chat-emote-msg-snort = фиркає
 chat-emote-msg-gekker = белькоче
 chat-emote-msg-awebo = авебує!
+chat-emote-msg-hoot = вухає!

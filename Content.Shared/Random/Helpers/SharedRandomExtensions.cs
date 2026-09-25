@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: AGPL-3.0-or-later
 
-using System.Diagnostics.CodeAnalysis;
-using System.Linq;
-using Content.Shared.Dataset;
 using Content.Goobstation.Maths.FixedPoint;
+using Content.Shared.Dataset;
 using Robust.Shared.Random;
 using Robust.Shared.Timing;
+using System.Diagnostics.CodeAnalysis;
+using System.Linq;
 
 namespace Content.Shared.Random.Helpers
 {
@@ -216,7 +216,7 @@ namespace Content.Shared.Random.Helpers
 
         // TODO: REPLACE ALL OF THIS WITH PREDICTED RANDOM WHEN ENGINE PR IS MERGED
         /// <summary>
-        /// Creates an instance of System.Random that will be the same for both the server and client.
+        /// Creates an instance of IRobustRandom that will be the same for both the server and client.
         /// This allows for the client and server to roll the same results when determining things randomly, preventing mispredictions.
         /// We generate a unique seed by getting 2-3 unique but predictable integers into a Hashcode.
         /// </summary>
@@ -227,15 +227,13 @@ namespace Content.Shared.Random.Helpers
         /// <param name="netEnt2">An optional relevant net entity to our seed.
         /// Typically used if we have an entity checking random potentially multiple times per tick, to ensure we get a unique seed each time.
         /// This entity should not be the same entity as <see cref="netEnt"/>.</param>
-        // Cheeburbr start. Фікс з апстріму
         public static IRobustRandom PredictedRandom(IGameTiming timing, NetEntity netEnt, NetEntity? netEnt2 = null)
         {
-            var seed = HashCodeCombine((int)timing.CurTick.Value, netEnt.Id, netEnt2?.Id ?? 0);
+            var seed = HashCodeCombine((int) timing.CurTick.Value, netEnt.Id, netEnt2?.Id ?? 0);
             var random = new RobustRandom();
             random.SetSeed(seed);
             return random;
         }
-        // Cheeburbr end
 
         /// <summary>
         /// Checks a probability against a <see cref="PredictedRandom"/> instance.

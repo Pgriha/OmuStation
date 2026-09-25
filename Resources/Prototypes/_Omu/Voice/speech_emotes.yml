@@ -102,3 +102,23 @@
     - awebos
     - авебує # Cheeburbr. До кінця прототипу
     - авебують
+
+- type: emote
+  id: Hoot
+  name: chat-emote-name-hoot
+  icon: _Goobstation/Interface/Emotes/caw.png
+  category: Vocal
+  whitelist:
+    tags:
+    - HarpyEmotes
+  blacklist:
+    components:
+    - BorgChassis
+  chatMessages: ["chat-emote-msg-hoot"]
+  chatTriggers:
+  - hoot
+  - hoots
+  - вухає # Cheeburbr. До кінця прототипу
+  - вухають
+  - ухає
+  - ухають

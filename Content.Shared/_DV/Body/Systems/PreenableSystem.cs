@@ -1,4 +1,3 @@
-using Content.Goobstation.Maths.FixedPoint;
 using Content.Shared._DV.Body.Components;
 using Content.Shared._DV.Body.Events;
 using Content.Shared.Body.Components;
@@ -6,14 +5,14 @@ using Content.Shared.Chat;
 using Content.Shared.Damage;
 using Content.Shared.Damage.Systems;
 using Content.Shared.DoAfter;
-using Content.Shared.Forensics;
+using Content.Goobstation.Maths.FixedPoint;
 using Content.Shared.Forensics.Systems;
 using Content.Shared.Hands.EntitySystems;
 using Content.Shared.Humanoid;
 using Content.Shared.IdentityManagement;
 using Content.Shared.Popups;
 using Content.Shared.Random.Helpers;
-using Content.Shared.StatusEffectNew;
+using Content.Shared.StatusEffect;
 using Content.Shared.Verbs;
 using Robust.Shared.Physics.Systems;
 using Robust.Shared.Prototypes;
@@ -101,7 +100,7 @@ public sealed class PreenableSystem : EntitySystem
         if (ent.Comp.CurrentFeathers <= 0)
             return;
 
-        args.Handled = true;
+		args.Handled = true;
         var feather = SpawnFeather(ent, false);
 
         _hands.TryPickupAnyHand(args.User, feather);
@@ -151,10 +150,10 @@ public sealed class PreenableSystem : EntitySystem
 
         // yeeeowch!
         _popup.PopupClient(Loc.GetString(ent.Comp.DroppedFeatherString), ent, ent, PopupType.MediumCaution);
-        _chat.TrySendInGameICMessage(ent, ent.Comp.ScreamEmote, InGameICChatType.Emote, true); // Byrd: Edited
+        _chat.TryEmoteWithoutChat(ent, ent.Comp.ScreamEmote);
 
         // old StatusEffects is obsolete, however Adrenaline has not been moved over to the new system yet
-        _statusEffects.TryAddStatusEffect(ent, "Adrenaline", out _, TimeSpan.FromSeconds(3));
+        _statusEffects.TryAddStatusEffect(ent, "Adrenaline", TimeSpan.FromSeconds(3), true);
     }
 
     private void OnDamageModify(Entity<PreenableComponent> ent, ref DamageModifyEvent args)
@@ -163,7 +162,7 @@ public sealed class PreenableSystem : EntitySystem
             return;
 
         // zero vulnerability at max feathers, full vulnerability at 0 feathers
-        var vulnerabilityModifier = 1f - (ent.Comp.CurrentFeathers / (float) ent.Comp.MaximumFeathers);
+        var vulnerabilityModifier = 1f - (ent.Comp.CurrentFeathers / (float)ent.Comp.MaximumFeathers);
 
         var damageSpecifier = new DamageModifierSet
         {
@@ -188,8 +187,7 @@ public sealed class PreenableSystem : EntitySystem
         }
 
         // best be careful, no cleaning this
-        var ev = new TransferDnaEvent { Donor = ent, Recipient = feather, CanDnaBeCleaned = false };
-        RaiseLocalEvent(feather, ref ev);
+        _forensics.TransferDna(feather, ent, false);
 
         ent.Comp.CurrentFeathers -= 1;
         ent.Comp.ReplenishTime = _timing.CurTime + ent.Comp.ReplenishDelay;

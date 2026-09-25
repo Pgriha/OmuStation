@@ -120,18 +120,22 @@
           - ChunkDebrisSmall
           - ChunkDebrisSmall
           - ChunkDebris
-        # Cheeburbr. Так, ВГроїд, але знову ні, бо чомусь спавниться на окремій мапі
-        #vgroid: !type:DungeonSpawnGroup
-        #  minimumDistance: 500 # Cheeburbr. 300 в оригіналі
-        #  maximumDistance: 750 # Cheeburbr. 350 в оригіналі
-        #  nameDataset: NamesBorer
-        #  stationGrid: false
-        #  addComponents:
-        #  - type: Gravity
-        #    enabled: true
-        #    inherent: true
-        #  protos:
-        #  - VGRoid
+        # Omu - Vgroid!
+        vgroid: !type:DungeonSpawnGroup
+          minimumDistance: 150
+          maximumDistance: 200
+          nameDataset: NamesBorer
+          stationGrid: false
+          addComponents:
+          - type: ForceAnchor  #Omu add force anchor
+          - type: Gravity
+            enabled: true
+            inherent: true
+          - type: IFF
+            flags: HideLabel
+            color: "#d67e27"
+          protos:
+          - VGRoid
 
 - type: entity
   id: BaseStationCentcomm
@@ -151,6 +155,7 @@
   components:
     - type: AlertLevel
       alertLevelPrototype: stationAlerts
+    - type: AmberAlert # Goobstation - gates the amber alert level
 
 - type: entity
   id: BaseStationExpeditions
