@@ -25,6 +25,7 @@ SPDX-License-Identifier: AGPL-3.0-or-later
                 <CheckBox Name="LogInChatCheckBox" Text="{Loc 'ui-options-log-in-chat'}" /> <!-- WD EDIT -->
                 <ui:OptionDropDown Name="ChatStackOption" Title="{Loc 'ui-options-chatstack'}" /> <!-- WD EDIT -->
                 <CheckBox Name="DetailedExamineCheckBox" Text="{Loc 'ui-options-detailed-examine'}" /> <!-- Goobstation Change -->
+                <CheckBox Name="RMCAutoPunctuate" Text="{Loc 'Automatically punctuate in-character messages'}" /> <!-- Cheeburbr. Портована з РМС авто пунктуація у клієнта -->
                 <Label Text="{Loc 'ui-options-general-cursor'}"
                        StyleClasses="LabelKeyText"/>
                 <CheckBox Name="ShowHeldItemCheckBox" Text="{Loc 'ui-options-show-held-item'}" />
