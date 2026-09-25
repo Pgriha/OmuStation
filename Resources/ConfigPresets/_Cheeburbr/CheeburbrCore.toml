@@ -9,7 +9,7 @@ high_log_playtime = -1 # Прибирання зайвих повідомлен�
 [game]
 #Бр-бр-бр та вимкнення перевірки айпі
 hostname = "Cotton Cheeburbr Omu"
-desc = "Ммм. . . Ну типу так? Ви зрозуміли. Бавовняний сирбурбер.\nОмуємо, шановні."
+desc = "Ммм. . . Ну, типу, так? Ви зрозуміли. Бавовняний сирбурбер.\nОмуємо, шановні."
 soft_max_players = 20
 defaultpreset = "SecretPlusLow"
 fallbackpreset = "SecretPlusLow"
@@ -28,6 +28,7 @@ admin_job_tracking = true
 #Бр-бр-бр №2
 id = "CheeBurbr"
 rules_file = "СheeburbrOverview"
+lobby_name = "Бавовняний Сирбурбер"
 
 [rules]
 #Зменшення таймера на читання правил
@@ -39,11 +40,18 @@ show_typing_indicator = true
 
 [admin]
 # Адмін приколи
+allow_multi_server_play = true
 admins_count_in_playercount = true
 see_own_notes = true
 deadmin_on_join = false
 server_ban_erase_player = true
 server_ban_hwid_ban_default = false
+new_player_threshold = 0 # Всі вже не нові
+
+[admin.alert]
+# Менше зайвих адмін повідомлень
+min_players_sharing_connection = -1
+explosion_min_intensity = -1
 
 [ic]
 #Описи та імена
