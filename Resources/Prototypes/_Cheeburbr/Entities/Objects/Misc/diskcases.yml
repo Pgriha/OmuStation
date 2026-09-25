@@ -15,11 +15,11 @@
         - Document
         - CD
 
-## Музика
+## Англомовна та інша не наша музика
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseAlexandraStanMrSaxobeat
-  name: коробчка з диском (Alexandra Stan – Mr Saxobeat)
+  name: диск-бокс (Alexandra Stan – Mr Saxobeat)
   components:
   - type: StorageFill
     contents:
@@ -28,7 +28,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseAzumiTakahashiLotusJuiceItsGoingDownNow
-  name: коробчка з диском (Azumi Takahashi & Lotus Juice – It's Going Down Now)
+  name: диск-бокс (Azumi Takahashi & Lotus Juice – It's Going Down Now)
   components:
   - type: StorageFill
     contents:
@@ -37,7 +37,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseBonnieTylerHoldingOutForAHero
-  name: коробчка з диском (Bonnie Tyler – Holding Out For A Hero)
+  name: диск-бокс (Bonnie Tyler – Holding Out For A Hero)
   components:
   - type: StorageFill
     contents:
@@ -46,7 +46,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseBettaLemmeBambola
-  name: коробчка з диском (Betta Lemme – Bambola)
+  name: диск-бокс (Betta Lemme – Bambola)
   components:
   - type: StorageFill
     contents:
@@ -55,7 +55,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseBillyIdolEyesWithoutAFace
-  name: коробчка з диском (Billy Idol – Eyes Without A Face)
+  name: диск-бокс (Billy Idol – Eyes Without A Face)
   components:
   - type: StorageFill
     contents:
@@ -64,7 +64,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseBlackSabbathLadyEvil
-  name: коробчка з диском (Black Sabbath – Lady Evil)
+  name: диск-бокс (Black Sabbath – Lady Evil)
   components:
   - type: StorageFill
     contents:
@@ -73,7 +73,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseBritneySpearsBabyOneMoreTime
-  name: коробчка з диском (Britney Spears – Baby One More Time)
+  name: диск-бокс (Britney Spears – Baby One More Time)
   components:
   - type: StorageFill
     contents:
@@ -82,7 +82,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseCalogeroPassiFaceALaMer
-  name: коробчка з диском (Calogero & Passi – Face a la mer)
+  name: диск-бокс (Calogero & Passi – Face a la mer)
   components:
   - type: StorageFill
     contents:
@@ -91,7 +91,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseColdplayAdventureOfALifetime
-  name: коробчка з диском (Coldplay – Adventure of a Lifetime)
+  name: диск-бокс (Coldplay – Adventure of a Lifetime)
   components:
   - type: StorageFill
     contents:
@@ -100,7 +100,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseDavidGuettaBebeRexhaJBalvinSayMyName
-  name: коробчка з диском (David Guetta, Bebe Rexha & J Balvin – Say My Name)
+  name: диск-бокс (David Guetta, Bebe Rexha & J Balvin – Say My Name)
   components:
   - type: StorageFill
     contents:
@@ -109,7 +109,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseDepecheModePersonalJesus
-  name: коробчка з диском (Depeche Mode – Personal Jesus)
+  name: диск-бокс (Depeche Mode – Personal Jesus)
   components:
   - type: StorageFill
     contents:
@@ -118,7 +118,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseDrPhonicsCodeRed
-  name: коробчка з диском (Dr Phonics – Code Red)
+  name: диск-бокс (Dr Phonics – Code Red)
   components:
   - type: StorageFill
     contents:
@@ -127,7 +127,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseDuranDuranInvisible
-  name: коробчка з диском (Duran Duran – INVISIBLE)
+  name: диск-бокс (Duran Duran – INVISIBLE)
   components:
   - type: StorageFill
     contents:
@@ -136,7 +136,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseEltonJohnImStillStanding
-  name: коробчка з диском (Elton John – I'm Still Standing)
+  name: диск-бокс (Elton John – I'm Still Standing)
   components:
   - type: StorageFill
     contents:
@@ -145,7 +145,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseEurythmicsSweetDreamsAreMadeOfThis
-  name: коробчка з диском (Eurythmics – Sweet Dreams Are Made of This)
+  name: диск-бокс (Eurythmics – Sweet Dreams Are Made of This)
   components:
   - type: StorageFill
     contents:
@@ -154,7 +154,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseEveryMoveAPictureSignsOfLife
-  name: коробчка з диском (Every Move A Picture – Signs Of Life)
+  name: диск-бокс (Every Move A Picture – Signs Of Life)
   components:
   - type: StorageFill
     contents:
@@ -163,7 +163,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseFasionDansez
-  name: коробчка з диском (Fasion – Dansez)
+  name: диск-бокс (Fasion – Dansez)
   components:
   - type: StorageFill
     contents:
@@ -172,7 +172,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseFloRidaWhistle
-  name: коробчка з диском (Flo Rida – Whistle)
+  name: диск-бокс (Flo Rida – Whistle)
   components:
   - type: StorageFill
     contents:
@@ -180,8 +180,17 @@
 
 - type: entity
   parent: BrbrDiskCase
+  id: BrbrDiskCaseFranzFerdinandThisFire
+  name: диск-бокс (Franz Ferdinand – This Fire)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskFranzFerdinandThisFire
+
+- type: entity
+  parent: BrbrDiskCase
   id: BrbrDiskCaseGaryNumanMe
-  name: коробчка з диском (Gary Numan – ME)
+  name: диск-бокс (Gary Numan – ME)
   components:
   - type: StorageFill
     contents:
@@ -190,7 +199,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseGaryNumanTubewayArmyAreFriendsElectric
-  name: коробчка з диском (Gary Numan & Tubeway Army – Are Friends Electric)
+  name: диск-бокс (Gary Numan & Tubeway Army – Are Friends Electric)
   components:
   - type: StorageFill
     contents:
@@ -199,7 +208,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseGrandCorpsMaladeBertholletCheminsDeTraverse
-  name: коробчка з диском (Grand Corps Malade & Berthollet – Chemins de traverse)
+  name: диск-бокс (Grand Corps Malade & Berthollet – Chemins de traverse)
   components:
   - type: StorageFill
     contents:
@@ -208,7 +217,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseGwenStefaniAkonTheSweetEscape
-  name: коробчка з диском (Gwen Stefani & Akon – The Sweet Escape)
+  name: диск-бокс (Gwen Stefani & Akon – The Sweet Escape)
   components:
   - type: StorageFill
     contents:
@@ -217,7 +226,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseHieroglyphicsLetItRoll
-  name: коробчка з диском (Hieroglyphics – Let It Roll)
+  name: диск-бокс (Hieroglyphics – Let It Roll)
   components:
   - type: StorageFill
     contents:
@@ -226,7 +235,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseHowlinJacksonJellyRollBlues
-  name: коробчка з диском (Howlin Jackson – Jelly Roll Blues)
+  name: диск-бокс (Howlin Jackson – Jelly Roll Blues)
   components:
   - type: StorageFill
     contents:
@@ -235,7 +244,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseInfectedMushroomNeverMind
-  name: коробчка з диском (Infected Mushroom – Never Mind)
+  name: диск-бокс (Infected Mushroom – Never Mind)
   components:
   - type: StorageFill
     contents:
@@ -244,7 +253,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseJanValtaAdamSporkaRattayFeasts
-  name: коробчка з диском (Jan Valta & Adam Sporka – Rattay Feasts)
+  name: диск-бокс (Jan Valta & Adam Sporka – Rattay Feasts)
   components:
   - type: StorageFill
     contents:
@@ -252,8 +261,17 @@
 
 - type: entity
   parent: BrbrDiskCase
+  id: BrbrDiskCaseJoanBaezHeresToYou
+  name: диск-бокс (Joan Baez – Here's To You)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskJoanBaezHeresToYou
+
+- type: entity
+  parent: BrbrDiskCase
   id: BrbrDiskCaseJourneyWhosCryingNow
-  name: коробчка з диском (Journey – Who's Crying Now)
+  name: диск-бокс (Journey – Who's Crying Now)
   components:
   - type: StorageFill
     contents:
@@ -262,7 +280,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseJustinBieberLudacrisBaby
-  name: коробчка з диском (Justin Bieber & Ludacris – Baby)
+  name: диск-бокс (Justin Bieber & Ludacris – Baby)
   components:
   - type: StorageFill
     contents:
@@ -271,7 +289,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseKatyPerryIKissedAGirl
-  name: коробчка з диском (Katy Perry – I Kissed A Girl)
+  name: диск-бокс (Katy Perry – I Kissed A Girl)
   components:
   - type: StorageFill
     contents:
@@ -280,7 +298,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseLadyGagaTheDeadDance
-  name: коробчка з диском (Lady Gaga – The Dead Dance)
+  name: диск-бокс (Lady Gaga – The Dead Dance)
   components:
   - type: StorageFill
     contents:
@@ -288,17 +306,17 @@
 
 - type: entity
   parent: BrbrDiskCase
-  id: BrbrDiskCaseMadHeads
-  name: коробчка з диском (Mad Heads – Пробки)
+  id: BrbrDiskCaseLemonDemonTheUltimateShowdown
+  name: диск-бокс (Lemon Demon – The Ultimate Showdown)
   components:
   - type: StorageFill
     contents:
-      - id: BrbrCdDiskMadHeads
+      - id: BrbrCdDiskLemonDemonTheUltimateShowdown
 
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseManeskinBeggin
-  name: коробчка з диском (Maneskin – Beggin)
+  name: диск-бокс (Maneskin – Beggin)
   components:
   - type: StorageFill
     contents:
@@ -307,7 +325,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseMasayoshiTakanakaBrasilianSkies
-  name: коробчка з диском (Masayoshi Takanaka – Brasilian Skies)
+  name: диск-бокс (Masayoshi Takanaka – Brasilian Skies)
   components:
   - type: StorageFill
     contents:
@@ -316,7 +334,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseMichaelJacksonRockWithYou
-  name: коробчка з диском (Michael Jackson – Rock With You)
+  name: диск-бокс (Michael Jackson – Rock With You)
   components:
   - type: StorageFill
     contents:
@@ -324,17 +342,8 @@
 
 - type: entity
   parent: BrbrDiskCase
-  id: BrbrDiskCaseMidgeUreTheManWhoSoldTheWorld
-  name: коробчка з диском (Midge Ure – The Man Who Sold the World)
-  components:
-  - type: StorageFill
-    contents:
-      - id: BrbrCdDiskMidgeUreTheManWhoSoldTheWorld
-
-- type: entity
-  parent: BrbrDiskCase
   id: BrbrDiskCaseMichaelSembelloManiacFromFlashdance
-  name: коробчка з диском (Michael Sembello – Maniac From Flashdance)
+  name: диск-бокс (Michael Sembello – Maniac From Flashdance)
   components:
   - type: StorageFill
     contents:
@@ -342,8 +351,17 @@
 
 - type: entity
   parent: BrbrDiskCase
+  id: BrbrDiskCaseMidgeUreTheManWhoSoldTheWorld
+  name: диск-бокс (Midge Ure – The Man Who Sold the World)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskMidgeUreTheManWhoSoldTheWorld
+
+- type: entity
+  parent: BrbrDiskCase
   id: BrbrDiskCaseMinakoYoshidaMidnightDriver
-  name: коробчка з диском (Minako Yoshida – Midnight Driver)
+  name: диск-бокс (Minako Yoshida – Midnight Driver)
   components:
   - type: StorageFill
     contents:
@@ -352,7 +370,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseMittsiesVitality
-  name: коробчка з диском (Mittsies – Vitality)
+  name: диск-бокс (Mittsies – Vitality)
   components:
   - type: StorageFill
     contents:
@@ -360,35 +378,8 @@
 
 - type: entity
   parent: BrbrDiskCase
-  id: BrbrDiskCaseQuestionableSlightlyStoopid
-  name: коробчка з диском (Questionable – Slightly Stoopid)
-  components:
-  - type: StorageFill
-    contents:
-      - id: BrbrCdDiskQuestionableSlightlyStoopid
-
-- type: entity
-  parent: BrbrDiskCase
-  id: BrbrDiskCaseTameImpalaTheLessIKnowTheBetter
-  name: коробчка з диском (Tame Impala – The Less I Know The Better)
-  components:
-  - type: StorageFill
-    contents:
-      - id: BrbrCdDiskTameImpalaTheLessIKnowTheBetter
-
-- type: entity
-  parent: BrbrDiskCase
-  id: BrbrDiskCaseWolfmotherLoveTrain
-  name: коробчка з диском (Wolfmother – Love Train)
-  components:
-  - type: StorageFill
-    contents:
-      - id: BrbrCdDiskWolfmotherLoveTrain
-
-- type: entity
-  parent: BrbrDiskCase
   id: BrbrDiskCasePaulKalkbrennerStromaeQueCeSoitClair
-  name: коробчка з диском (Paul Kalkbrenner & Stromae – Que ce soit clair)
+  name: диск-бокс (Paul Kalkbrenner & Stromae – Que ce soit clair)
   components:
   - type: StorageFill
     contents:
@@ -396,8 +387,17 @@
 
 - type: entity
   parent: BrbrDiskCase
+  id: BrbrDiskCaseQuestionableSlightlyStoopid
+  name: диск-бокс (Questionable – Slightly Stoopid)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskQuestionableSlightlyStoopid
+
+- type: entity
+  parent: BrbrDiskCase
   id: BrbrDiskCaseRoseBrunoMarsApt
-  name: коробчка з диском (Rose & Bruno Mars – APT)
+  name: диск-бокс (Rose & Bruno Mars – APT)
   components:
   - type: StorageFill
     contents:
@@ -406,7 +406,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseSelenaGomezTheSceneLoveYouLikeALoveSong
-  name: коробчка з диском (Selena Gomez & The Scene – Love You Like A Love Song)
+  name: диск-бокс (Selena Gomez & The Scene – Love You Like A Love Song)
   components:
   - type: StorageFill
     contents:
@@ -415,7 +415,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseSherylCrowRealGone
-  name: коробчка з диском (Sheryl Crow – Real Gone)
+  name: диск-бокс (Sheryl Crow – Real Gone)
   components:
   - type: StorageFill
     contents:
@@ -424,7 +424,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseShihokoHirataHeartbeatHeartbreak
-  name: коробчка з диском (Shihoko Hirata – Heartbeat Heartbreak)
+  name: диск-бокс (Shihoko Hirata – Heartbeat Heartbreak)
   components:
   - type: StorageFill
     contents:
@@ -432,17 +432,8 @@
 
 - type: entity
   parent: BrbrDiskCase
-  id: BrbrDiskCaseSkverVilni
-  name: коробчка з диском (Сквер – Вільні)
-  components:
-  - type: StorageFill
-    contents:
-      - id: BrbrCdDiskSkverVilni
-
-- type: entity
-  parent: BrbrDiskCase
   id: BrbrDiskCaseSpandauBalletGold
-  name: коробчка з диском (Spandau Ballet – Gold)
+  name: диск-бокс (Spandau Ballet – Gold)
   components:
   - type: StorageFill
     contents:
@@ -451,7 +442,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseStromaeSante
-  name: коробчка з диском (Stromae – Sante)
+  name: диск-бокс (Stromae – Sante)
   components:
   - type: StorageFill
     contents:
@@ -460,7 +451,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseSuunsUpPastTheNursery
-  name: коробчка з диском (Suuns – Up Past The Nursery)
+  name: диск-бокс (Suuns – Up Past The Nursery)
   components:
   - type: StorageFill
     contents:
@@ -469,7 +460,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseSynapsonOumouSangareBensema
-  name: коробчка з диском (Synapson & Oumou Sangare – Bensema)
+  name: диск-бокс (Synapson & Oumou Sangare – Bensema)
   components:
   - type: StorageFill
     contents:
@@ -478,7 +469,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseSynapsonTimDupLassToujours
-  name: коробчка з диском (Synapson, Tim Dup & Lass – Toujours)
+  name: диск-бокс (Synapson, Tim Dup & Lass – Toujours)
   components:
   - type: StorageFill
     contents:
@@ -486,8 +477,17 @@
 
 - type: entity
   parent: BrbrDiskCase
+  id: BrbrDiskCaseTameImpalaTheLessIKnowTheBetter
+  name: диск-бокс (Tame Impala – The Less I Know The Better)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskTameImpalaTheLessIKnowTheBetter
+
+- type: entity
+  parent: BrbrDiskCase
   id: BrbrDiskCaseTheChordsShBoom
-  name: коробчка з диском (The Chords – Sh-Boom)
+  name: диск-бокс (The Chords – Sh-Boom)
   components:
   - type: StorageFill
     contents:
@@ -496,7 +496,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseTheRahBandMessagesFromTheStars
-  name: коробчка з диском (The RAH Band – Messages From The Stars)
+  name: диск-бокс (The RAH Band – Messages From The Stars)
   components:
   - type: StorageFill
     contents:
@@ -505,7 +505,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseTheTemptationsAintNoSunSinceYouveBeenGone
-  name: коробчка з диском (The Temptations – Ain't No Sun Since You've Been Gone)
+  name: диск-бокс (The Temptations – Ain't No Sun Since You've Been Gone)
   components:
   - type: StorageFill
     contents:
@@ -514,7 +514,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseTheTemptationsBallOfConfusion
-  name: коробчка з диском (The Temptations – Ball Of Confusion)
+  name: диск-бокс (The Temptations – Ball Of Confusion)
   components:
   - type: StorageFill
     contents:
@@ -522,26 +522,8 @@
 
 - type: entity
   parent: BrbrDiskCase
-  id: BrbrDiskCaseThmkMolod
-  name: коробчка з диском (ТНМК – Молодець)
-  components:
-  - type: StorageFill
-    contents:
-      - id: BrbrCdDiskThmkMolod
-
-- type: entity
-  parent: BrbrDiskCase
-  id: BrbrDiskCaseTikZapahWar
-  name: коробчка з диском (ТІК – Запах Війни)
-  components:
-  - type: StorageFill
-    contents:
-      - id: BrbrCdDiskTikZapahWar
-
-- type: entity
-  parent: BrbrDiskCase
   id: BrbrDiskCaseTwistedSisterKingOfTheFools
-  name: коробчка з диском (Twisted Sister – King of the Fools)
+  name: диск-бокс (Twisted Sister – King of the Fools)
   components:
   - type: StorageFill
     contents:
@@ -550,7 +532,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseVariousArtistsBosanskaArtiljerija
-  name: коробчка з диском (Народна Пісня – Bosanska artiljerija)
+  name: диск-бокс (Народна Пісня – Bosanska artiljerija)
   components:
   - type: StorageFill
     contents:
@@ -559,7 +541,7 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseWhiteZombieImYourBoogieman
-  name: коробчка з диском (White Zombie – I'm Your Boogieman)
+  name: диск-бокс (White Zombie – I'm Your Boogieman)
   components:
   - type: StorageFill
     contents:
@@ -568,8 +550,280 @@
 - type: entity
   parent: BrbrDiskCase
   id: BrbrDiskCaseWoodkidIron
-  name: коробчка з диском (Woodkid – Iron)
+  name: диск-бокс (Woodkid – Iron)
   components:
   - type: StorageFill
     contents:
       - id: BrbrCdDiskWoodkidIron
+
+## Українська музика
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseZapakhViiny
+  name: диск-бокс (ТІК – Запах Війни)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskZapakhViiny
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseMolodets
+  name: диск-бокс (ТНМК – Молодець)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskMolodets
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseVilni
+  name: диск-бокс (Сквер – Вільні)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskVilni
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseMadHeadsXLProbky
+  name: диск-бокс (Mad Heads XL – Пробки)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskMadHeadsXLProbky
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseDZIDZIOPavuk
+  name: диск-бокс (DZIDZIO – Павук)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskDZIDZIOPavuk
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseSadSvitKaseta
+  name: диск-бокс (SadSvit – Касета)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskSadSvitKaseta
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseVERKASERDUCHKAHopHopHop
+  name: диск-бокс (VERKA SERDUCHKA – Гоп-Гоп-Гоп)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskVERKASERDUCHKAHopHopHop
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseZWYNTARTantsiuiIPyy
+  name: диск-бокс (ZWYNTAR – Танцюй І Пий)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskZWYNTARTantsiuiIPyy
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseAlhololizm
+  name: диск-бокс (ТІК – Алкоголізм)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskAlhololizm
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseBukhloDeluxe
+  name: диск-бокс (Жадан і Собаки – Бухло)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskBukhloDeluxe
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseVerkaSerdiuchkaLashaTumbai
+  name: диск-бокс (VERKA SERDUCHKA – Lasha-Tumbai)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskVerkaSerdiuchkaLashaTumbai
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseVoseny
+  name: диск-бокс (ТНМК – Восени)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskVoseny
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseVosmyiKolir
+  name: диск-бокс (Мотор'Ролла – Восьмий колір)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskVosmyiKolir
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseHimnUkrainyOleksandrPonomarov
+  name: диск-бокс (П. Чубинський та М. Вербицький у виконанні О. Панамарьова – Гімн України)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskHimnUkrainyOleksandrPonomarov
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseYshovYaNebom
+  name: диск-бокс (ВІЙ – Йшов я небом)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskYshovYaNebom
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseKaterynaVIAKvartyrnyk
+  name: диск-бокс (ВІА Квартирник – Катерина)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskKaterynaVIAKvartyrnyk
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseKobzonDeluxe
+  name: диск-бокс (Жадан і Собаки – Кобзон)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskKobzonDeluxe
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseMalvyDeluxe
+  name: диск-бокс (Жадан і Собаки – Мальви)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskMalvyDeluxe
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseNeDzvonylaNeZakhodyla
+  name: диск-бокс (Мотор'Ролла – Не дзвонила, не заходила)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskNeDzvonylaNeZakhodyla
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseOyKhtoPieTomuNalyvayteGachiRemix
+  name: диск-бокс (LIL OLKO – Ой, хто п'є, тому наливайте)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskOyKhtoPieTomuNalyvayteGachiRemix
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseSkriabinKolorova
+  name: диск-бокс (Кузьма Скрябін – Кольорова)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskSkriabinKolorova
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseChervonaRuta
+  name: диск-бокс (Володимир Івасюк – Червона рута)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskChervonaRuta
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseYurkeshMundial
+  name: диск-бокс (Юркеш – Мундіаль)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskYurkeshMundial
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseHeyHuHeyHa
+  name: диск-бокс (Український повстанський рух – Гей гу, гей га)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskHeyHuHeyHa
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseSmakPechal
+  name: диск-бокс (DOROFEEVA & POSITIFF – Смак-печаль)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskSmakPechal
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseOkeanElzyNaLiniiVohnyu
+  name: диск-бокс (Океан Ельзи – На лінії вогню)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskOkeanElzyNaLiniiVohnyu
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseBetaKarotyn
+  name: диск-бокс (Бумбокс – Бета-каротин)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskBetaKarotyn
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCasePavloZibrovDenNarodzhennya
+  name: диск-бокс (Павло Зібров – День Народження)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskPavloZibrovDenNarodzhennya
+
+## Особлива музика
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseKitMeidochkaBosanskaArtiljerija
+  name: диск-бокс (Кіт Мейдочка та Боснія – Bosanska artiljerija)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskKitMeidochkaBosanskaArtiljerija
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseMothsFortunateSon
+  name: диск-бокс (Молі – Fobzzunate ZZZon)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskMothsFortunateSon

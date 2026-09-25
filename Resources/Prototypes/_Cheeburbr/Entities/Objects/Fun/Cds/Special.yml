@@ -1,0 +1,18 @@
+# Тута щось *особливе*
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Кіт Мейдочка та Боснія – Bosanska artiljerija)
+  id: BrbrCdDiskKitMeidochkaBosanskaArtiljerija
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Special/Кіт-Мейдочка_Артилерія.ogg
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Молі – Fobzzunate ZZZon)
+  id: BrbrCdDiskMothsFortunateSon
+  components:
+  - type: Vinyl
+    song:
+      path: /Audio/_Cheeburbr/Jukebox/Special/Молі_Fortunate-Son.ogg

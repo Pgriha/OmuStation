@@ -30,6 +30,9 @@ id = "CheeBurbr"
 rules_file = "СheeburbrOverview"
 lobby_name = "Бавовняний Сирбурбер"
 
+[audio]
+lobby_music_collection = "BrbrLobbyMusic"
+
 [rules]
 #Зменшення таймера на читання правил
 time = 15

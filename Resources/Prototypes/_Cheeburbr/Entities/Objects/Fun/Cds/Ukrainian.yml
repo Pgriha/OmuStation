@@ -1,0 +1,251 @@
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (ТІК – Запах Війни)
+  id: BrbrCdDiskZapakhViiny
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Запах війни.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (ТНМК – Молодець)
+  id: BrbrCdDiskMolodets
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Молодець.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Сквер – Вільні)
+  id: BrbrCdDiskVilni
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Вільні.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Mad Heads XL – Пробки)
+  id: BrbrCdDiskMadHeadsXLProbky
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Mad Heads XL - Пробки.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (DZIDZIO – Павук)
+  id: BrbrCdDiskDZIDZIOPavuk
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/DZIDZIO_Павук.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (SadSvit – Касета)
+  id: BrbrCdDiskSadSvitKaseta
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/SadSvit - Касета.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (VERKA SERDUCHKA – Гоп-Гоп-Гоп)
+  id: BrbrCdDiskVERKASERDUCHKAHopHopHop
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/VERKA SERDUCHKA — Гоп-Гоп-Гоп.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (ZWYNTAR – Танцюй І Пий)
+  id: BrbrCdDiskZWYNTARTantsiuiIPyy
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/ZWYNTAR - Танцюй І Пий.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (ТІК – Алкоголізм)
+  id: BrbrCdDiskAlhololizm
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Алкоголізм.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Жадан і Собаки – Бухло)
+  id: BrbrCdDiskBukhloDeluxe
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Бухло (deluxe).ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (VERKA SERDUCHKA – Lasha-Tumbai)
+  id: BrbrCdDiskVerkaSerdiuchkaLashaTumbai
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Верка-Сердючка_Lasha-Tumbai.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (ТНМК – Восени)
+  id: BrbrCdDiskVoseny
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Восени.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Мотор'Ролла – Восьмий колір)
+  id: BrbrCdDiskVosmyiKolir
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Восьмий колір.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (П. Чубинський та М. Вербицький у виконанні О. Панамарьова – Гімн України)
+  id: BrbrCdDiskHimnUkrainyOleksandrPonomarov
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Гімн-України_Олександр Пономарьов.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (ВІЙ – Йшов я небом)
+  id: BrbrCdDiskYshovYaNebom
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Йшов я небом.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (ВІА Квартирник – Катерина)
+  id: BrbrCdDiskKaterynaVIAKvartyrnyk
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Катерина - ВІА _Квартирник_ та Віктор Морозов.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Жадан і Собаки – Кобзон)
+  id: BrbrCdDiskKobzonDeluxe
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Кобзон (deluxe).ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Жадан і Собаки – Мальви)
+  id: BrbrCdDiskMalvyDeluxe
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Мальви (deluxe).ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Мотор'Ролла – Не дзвонила, не заходила)
+  id: BrbrCdDiskNeDzvonylaNeZakhodyla
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Не дзвонила, не заходила.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (LIL OLKO – Ой, хто п'є, тому наливайте)
+  id: BrbrCdDiskOyKhtoPieTomuNalyvayteGachiRemix
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Ой, хто п'є, тому наливайте - gachi remix.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Кузьма Скрябін – Кольорова)
+  id: BrbrCdDiskSkriabinKolorova
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Скрябін - Кольорова.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Володимир Івасюк – Червона рута)
+  id: BrbrCdDiskChervonaRuta
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Червона рута.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Юркеш – Мундіаль)
+  id: BrbrCdDiskYurkeshMundial
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Юркеш - Мундіаль.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Український повстанський рух – Гей гу, гей га)
+  id: BrbrCdDiskHeyHuHeyHa
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Гей гу, гей га.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (DOROFEEVA & POSITIFF – Смак-печаль)
+  id: BrbrCdDiskSmakPechal
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Смак-печаль.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Океан Ельзи – На лінії вогню)
+  id: BrbrCdDiskOkeanElzyNaLiniiVohnyu
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Океан Ельзи - На лінії вогню.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Бумбокс – Бета-каротин)
+  id: BrbrCdDiskBetaKarotyn
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Бета-каротин.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  name: компакт-диск (Павло Зібров – День Народження)
+  id: BrbrCdDiskPavloZibrovDenNarodzhennya
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Павло Зібров - День Народження.ogg"
