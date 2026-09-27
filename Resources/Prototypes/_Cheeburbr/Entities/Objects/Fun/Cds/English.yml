@@ -14,8 +14,8 @@
 # Тута англомовна та інша *не наша* музика
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Alexandra Stan – Mr Saxobeat)
   id: BrbrCdDiskAlexandraStanMrSaxobeat
+  name: компакт-диск (Alexandra Stan – Mr Saxobeat)
   components:
   - type: Vinyl
     song:
@@ -23,8 +23,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Azumi Takahashi & Lotus Juice – It's Going Down Now)
   id: BrbrCdDiskAzumiTakahashiLotusJuiceItsGoingDownNow
+  name: компакт-диск (Azumi Takahashi & Lotus Juice – It's Going Down Now)
   components:
   - type: Vinyl
     song:
@@ -32,8 +32,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Bonnie Tyler – Holding Out For A Hero)
   id: BrbrCdDiskBonnieTylerHoldingOutForAHero
+  name: компакт-диск (Bonnie Tyler – Holding Out For A Hero)
   components:
   - type: Vinyl
     song:
@@ -41,8 +41,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Betta Lemme – Bambola)
   id: BrbrCdDiskBettaLemmeBambola
+  name: компакт-диск (Betta Lemme – Bambola)
   components:
   - type: Vinyl
     song:
@@ -50,8 +50,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Billy Idol – Eyes Without A Face)
   id: BrbrCdDiskBillyIdolEyesWithoutAFace
+  name: компакт-диск (Billy Idol – Eyes Without A Face)
   components:
   - type: Vinyl
     song:
@@ -59,8 +59,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Black Sabbath – Lady Evil)
   id: BrbrCdDiskBlackSabbathLadyEvil
+  name: компакт-диск (Black Sabbath – Lady Evil)
   components:
   - type: Vinyl
     song:
@@ -68,8 +68,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Britney Spears – Baby One More Time)
   id: BrbrCdDiskBritneySpearsBabyOneMoreTime
+  name: компакт-диск (Britney Spears – Baby One More Time)
   components:
   - type: Vinyl
     song:
@@ -77,8 +77,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Calogero & Passi – Face a la mer)
   id: BrbrCdDiskCalogeroPassiFaceALaMer
+  name: компакт-диск (Calogero & Passi – Face a la mer)
   components:
   - type: Vinyl
     song:
@@ -86,8 +86,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Coldplay – Adventure of a Lifetime)
   id: BrbrCdDiskColdplayAdventureOfALifetime
+  name: компакт-диск (Coldplay – Adventure of a Lifetime)
   components:
   - type: Vinyl
     song:
@@ -95,8 +95,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (David Guetta, Bebe Rexha & J Balvin – Say My Name)
   id: BrbrCdDiskDavidGuettaBebeRexhaJBalvinSayMyName
+  name: компакт-диск (David Guetta, Bebe Rexha & J Balvin – Say My Name)
   components:
   - type: Vinyl
     song:
@@ -104,8 +104,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Depeche Mode – Personal Jesus)
   id: BrbrCdDiskDepecheModePersonalJesus
+  name: компакт-диск (Depeche Mode – Personal Jesus)
   components:
   - type: Vinyl
     song:
@@ -113,8 +113,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Dr Phonics – Code Red)
   id: BrbrCdDiskDrPhonicsCodeRed
+  name: компакт-диск (Dr Phonics – Code Red)
   components:
   - type: Vinyl
     song:
@@ -122,8 +122,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Duran Duran – INVISIBLE)
   id: BrbrCdDiskDuranDuranInvisible
+  name: компакт-диск (Duran Duran – INVISIBLE)
   components:
   - type: Vinyl
     song:
@@ -131,8 +131,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Elton John – I'm Still Standing)
   id: BrbrCdDiskEltonJohnImStillStanding
+  name: компакт-диск (Elton John – I'm Still Standing)
   components:
   - type: Vinyl
     song:
@@ -140,8 +140,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Eurythmics – Sweet Dreams Are Made of This)
   id: BrbrCdDiskEurythmicsSweetDreamsAreMadeOfThis
+  name: компакт-диск (Eurythmics – Sweet Dreams Are Made of This)
   components:
   - type: Vinyl
     song:
@@ -149,8 +149,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Every Move A Picture – Signs Of Life)
   id: BrbrCdDiskEveryMoveAPictureSignsOfLife
+  name: компакт-диск (Every Move A Picture – Signs Of Life)
   components:
   - type: Vinyl
     song:
@@ -158,8 +158,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Fasion – Dansez)
   id: BrbrCdDiskFasionDansez
+  name: компакт-диск (Fasion – Dansez)
   components:
   - type: Vinyl
     song:
@@ -167,8 +167,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Flo Rida – Whistle)
   id: BrbrCdDiskFloRidaWhistle
+  name: компакт-диск (Flo Rida – Whistle)
   components:
   - type: Vinyl
     song:
@@ -176,8 +176,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Gary Numan – ME)
   id: BrbrCdDiskGaryNumanMe
+  name: компакт-диск (Gary Numan – ME)
   components:
   - type: Vinyl
     song:
@@ -185,8 +185,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Gary Numan & Tubeway Army – Are Friends Electric)
   id: BrbrCdDiskGaryNumanTubewayArmyAreFriendsElectric
+  name: компакт-диск (Gary Numan & Tubeway Army – Are Friends Electric)
   components:
   - type: Vinyl
     song:
@@ -194,8 +194,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Grand Corps Malade & Berthollet – Chemins de traverse)
   id: BrbrCdDiskGrandCorpsMaladeBertholletCheminsDeTraverse
+  name: компакт-диск (Grand Corps Malade & Berthollet – Chemins de traverse)
   components:
   - type: Vinyl
     song:
@@ -203,8 +203,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Gwen Stefani & Akon – The Sweet Escape)
   id: BrbrCdDiskGwenStefaniAkonTheSweetEscape
+  name: компакт-диск (Gwen Stefani & Akon – The Sweet Escape)
   components:
   - type: Vinyl
     song:
@@ -212,8 +212,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Hieroglyphics – Let It Roll)
   id: BrbrCdDiskHieroglyphicsLetItRoll
+  name: компакт-диск (Hieroglyphics – Let It Roll)
   components:
   - type: Vinyl
     song:
@@ -221,8 +221,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Howlin Jackson – Jelly Roll Blues)
   id: BrbrCdDiskHowlinJacksonJellyRollBlues
+  name: компакт-диск (Howlin Jackson – Jelly Roll Blues)
   components:
   - type: Vinyl
     song:
@@ -230,8 +230,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Infected Mushroom – Never Mind)
   id: BrbrCdDiskInfectedMushroomNeverMind
+  name: компакт-диск (Infected Mushroom – Never Mind)
   components:
   - type: Vinyl
     song:
@@ -239,8 +239,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Jan Valta & Adam Sporka – Rattay Feasts)
   id: BrbrCdDiskJanValtaAdamSporkaRattayFeasts
+  name: компакт-диск (Jan Valta & Adam Sporka – Rattay Feasts)
   components:
   - type: Vinyl
     song:
@@ -248,8 +248,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Journey – Who's Crying Now)
   id: BrbrCdDiskJourneyWhosCryingNow
+  name: компакт-диск (Journey – Who's Crying Now)
   components:
   - type: Vinyl
     song:
@@ -257,8 +257,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Justin Bieber & Ludacris – Baby)
   id: BrbrCdDiskJustinBieberLudacrisBaby
+  name: компакт-диск (Justin Bieber & Ludacris – Baby)
   components:
   - type: Vinyl
     song:
@@ -266,8 +266,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Katy Perry – I Kissed A Girl)
   id: BrbrCdDiskKatyPerryIKissedAGirl
+  name: компакт-диск (Katy Perry – I Kissed A Girl)
   components:
   - type: Vinyl
     song:
@@ -275,8 +275,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Lady Gaga – The Dead Dance)
   id: BrbrCdDiskLadyGagaTheDeadDance
+  name: компакт-диск (Lady Gaga – The Dead Dance)
   components:
   - type: Vinyl
     song:
@@ -284,8 +284,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Maneskin – Beggin)
   id: BrbrCdDiskManeskinBeggin
+  name: компакт-диск (Maneskin – Beggin)
   components:
   - type: Vinyl
     song:
@@ -293,8 +293,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Masayoshi Takanaka – Brasilian Skies)
   id: BrbrCdDiskMasayoshiTakanakaBrasilianSkies
+  name: компакт-диск (Masayoshi Takanaka – Brasilian Skies)
   components:
   - type: Vinyl
     song:
@@ -302,8 +302,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Michael Jackson – Rock With You)
   id: BrbrCdDiskMichaelJacksonRockWithYou
+  name: компакт-диск (Michael Jackson – Rock With You)
   components:
   - type: Vinyl
     song:
@@ -311,8 +311,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Midge Ure – The Man Who Sold the World)
   id: BrbrCdDiskMidgeUreTheManWhoSoldTheWorld
+  name: компакт-диск (Midge Ure – The Man Who Sold the World)
   components:
   - type: Vinyl
     song:
@@ -320,8 +320,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Michael Sembello – Maniac From Flashdance)
   id: BrbrCdDiskMichaelSembelloManiacFromFlashdance
+  name: компакт-диск (Michael Sembello – Maniac From Flashdance)
   components:
   - type: Vinyl
     song:
@@ -329,8 +329,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Minako Yoshida – Midnight Driver)
   id: BrbrCdDiskMinakoYoshidaMidnightDriver
+  name: компакт-диск (Minako Yoshida – Midnight Driver)
   components:
   - type: Vinyl
     song:
@@ -338,8 +338,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Mittsies – Vitality)
   id: BrbrCdDiskMittsiesVitality
+  name: компакт-диск (Mittsies – Vitality)
   components:
   - type: Vinyl
     song:
@@ -347,8 +347,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Questionable – Slightly Stoopid)
   id: BrbrCdDiskQuestionableSlightlyStoopid
+  name: компакт-диск (Questionable – Slightly Stoopid)
   components:
   - type: Vinyl
     song:
@@ -356,8 +356,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Tame Impala – The Less I Know The Better)
   id: BrbrCdDiskTameImpalaTheLessIKnowTheBetter
+  name: компакт-диск (Tame Impala – The Less I Know The Better)
   components:
   - type: Vinyl
     song:
@@ -365,8 +365,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Wolfmother – Love Train)
   id: BrbrCdDiskWolfmotherLoveTrain
+  name: компакт-диск (Wolfmother – Love Train)
   components:
   - type: Vinyl
     song:
@@ -374,8 +374,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Paul Kalkbrenner & Stromae – Que ce soit clair)
   id: BrbrCdDiskPaulKalkbrennerStromaeQueCeSoitClair
+  name: компакт-диск (Paul Kalkbrenner & Stromae – Que ce soit clair)
   components:
   - type: Vinyl
     song:
@@ -383,8 +383,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Rose & Bruno Mars – APT)
   id: BrbrCdDiskRoseBrunoMarsApt
+  name: компакт-диск (Rose & Bruno Mars – APT)
   components:
   - type: Vinyl
     song:
@@ -392,8 +392,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Selena Gomez & The Scene – Love You Like A Love Song)
   id: BrbrCdDiskSelenaGomezTheSceneLoveYouLikeALoveSong
+  name: компакт-диск (Selena Gomez & The Scene – Love You Like A Love Song)
   components:
   - type: Vinyl
     song:
@@ -401,8 +401,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Sheryl Crow – Real Gone)
   id: BrbrCdDiskSherylCrowRealGone
+  name: компакт-диск (Sheryl Crow – Real Gone)
   components:
   - type: Vinyl
     song:
@@ -410,8 +410,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Shihoko Hirata – Heartbeat Heartbreak)
   id: BrbrCdDiskShihokoHirataHeartbeatHeartbreak
+  name: компакт-диск (Shihoko Hirata – Heartbeat Heartbreak)
   components:
   - type: Vinyl
     song:
@@ -419,8 +419,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Spandau Ballet – Gold)
   id: BrbrCdDiskSpandauBalletGold
+  name: компакт-диск (Spandau Ballet – Gold)
   components:
   - type: Vinyl
     song:
@@ -428,8 +428,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Stromae – Sante)
   id: BrbrCdDiskStromaeSante
+  name: компакт-диск (Stromae – Sante)
   components:
   - type: Vinyl
     song:
@@ -437,8 +437,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Suuns – Up Past The Nursery)
   id: BrbrCdDiskSuunsUpPastTheNursery
+  name: компакт-диск (Suuns – Up Past The Nursery)
   components:
   - type: Vinyl
     song:
@@ -446,8 +446,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Synapson & Oumou Sangare – Bensema)
   id: BrbrCdDiskSynapsonOumouSangareBensema
+  name: компакт-диск (Synapson & Oumou Sangare – Bensema)
   components:
   - type: Vinyl
     song:
@@ -455,8 +455,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Synapson, Tim Dup & Lass – Toujours)
   id: BrbrCdDiskSynapsonTimDupLassToujours
+  name: компакт-диск (Synapson, Tim Dup & Lass – Toujours)
   components:
   - type: Vinyl
     song:
@@ -464,8 +464,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (The Chords – Sh-Boom)
   id: BrbrCdDiskTheChordsShBoom
+  name: компакт-диск (The Chords – Sh-Boom)
   components:
   - type: Vinyl
     song:
@@ -473,8 +473,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (The RAH Band – Messages From The Stars)
   id: BrbrCdDiskTheRahBandMessagesFromTheStars
+  name: компакт-диск (The RAH Band – Messages From The Stars)
   components:
   - type: Vinyl
     song:
@@ -482,8 +482,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (The Temptations – Ain't No Sun Since You've Been Gone)
   id: BrbrCdDiskTheTemptationsAintNoSunSinceYouveBeenGone
+  name: компакт-диск (The Temptations – Ain't No Sun Since You've Been Gone)
   components:
   - type: Vinyl
     song:
@@ -491,8 +491,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (The Temptations – Ball Of Confusion)
   id: BrbrCdDiskTheTemptationsBallOfConfusion
+  name: компакт-диск (The Temptations – Ball Of Confusion)
   components:
   - type: Vinyl
     song:
@@ -500,8 +500,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Twisted Sister – King of the Fools)
   id: BrbrCdDiskTwistedSisterKingOfTheFools
+  name: компакт-диск (Twisted Sister – King of the Fools)
   components:
   - type: Vinyl
     song:
@@ -509,8 +509,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Народна Пісня – Bosanska artiljerija)
   id: BrbrCdDiskVariousArtistsBosanskaArtiljerija
+  name: компакт-диск (Народна Пісня – Bosanska artiljerija)
   components:
   - type: Vinyl
     song:
@@ -518,8 +518,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (White Zombie – I'm Your Boogieman)
   id: BrbrCdDiskWhiteZombieImYourBoogieman
+  name: компакт-диск (White Zombie – I'm Your Boogieman)
   components:
   - type: Vinyl
     song:
@@ -527,8 +527,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Woodkid – Iron)
   id: BrbrCdDiskWoodkidIron
+  name: компакт-диск (Woodkid – Iron)
   components:
   - type: Vinyl
     song:
@@ -536,8 +536,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Franz Ferdinand – This Fire)
   id: BrbrCdDiskFranzFerdinandThisFire
+  name: компакт-диск (Franz Ferdinand – This Fire)
   components:
   - type: Vinyl
     song:
@@ -545,8 +545,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Joan Baez – Here's To You)
   id: BrbrCdDiskJoanBaezHeresToYou
+  name: компакт-диск (Joan Baez – Here's To You)
   components:
   - type: Vinyl
     song:
@@ -554,8 +554,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Lemon Demon – The Ultimate Showdown)
   id: BrbrCdDiskLemonDemonTheUltimateShowdown
+  name: компакт-диск (Lemon Demon – The Ultimate Showdown)
   components:
   - type: Vinyl
     song:

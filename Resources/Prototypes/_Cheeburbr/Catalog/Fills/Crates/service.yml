@@ -80,6 +80,7 @@
       - id: BrbrDiskCaseFranzFerdinandThisFire
       - id: BrbrDiskCaseJoanBaezHeresToYou
       - id: BrbrDiskCaseLemonDemonTheUltimateShowdown
+    # Наші
     - !type:GroupSelector
       weight: 50
       children:
@@ -111,6 +112,10 @@
       - id: BrbrDiskCaseOkeanElzyNaLiniiVohnyu
       - id: BrbrDiskCaseBetaKarotyn
       - id: BrbrDiskCasePavloZibrovDenNarodzhennya
+      - id: BrbrDiskCaseKomuVnyzMamay
+      - id: BrbrDiskCasePyriatynArta
+      - id: BrbrDiskCaseSofiyaRotaruOdnaKalyna
+    # Особливі
     - !type:GroupSelector
       weight: 10
       children:

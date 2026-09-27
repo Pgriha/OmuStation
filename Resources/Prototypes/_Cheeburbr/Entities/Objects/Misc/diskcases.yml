@@ -818,6 +818,33 @@
     contents:
       - id: BrbrCdDiskPavloZibrovDenNarodzhennya
 
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseKomuVnyzMamay
+  name: диск-бокс (КОМУ ВНИЗ – Мамай)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskKomuVnyzMamay
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCasePyriatynArta
+  name: диск-бокс (Пирятин – Арта)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskPyriatynArta
+
+- type: entity
+  parent: BrbrDiskCase
+  id: BrbrDiskCaseSofiyaRotaruOdnaKalyna
+  name: диск-бокс (Софія Ротару – Одна Калина)
+  components:
+  - type: StorageFill
+    contents:
+      - id: BrbrCdDiskSofiyaRotaruOdnaKalyna
+
 ## Особлива музика
 - type: entity
   parent: BrbrDiskCase

@@ -1,7 +1,7 @@
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (ТІК – Запах Війни)
   id: BrbrCdDiskZapakhViiny
+  name: компакт-диск (ТІК – Запах Війни)
   components:
   - type: Vinyl
     song:
@@ -9,8 +9,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (ТНМК – Молодець)
   id: BrbrCdDiskMolodets
+  name: компакт-диск (ТНМК – Молодець)
   components:
   - type: Vinyl
     song:
@@ -18,8 +18,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Сквер – Вільні)
   id: BrbrCdDiskVilni
+  name: компакт-диск (Сквер – Вільні)
   components:
   - type: Vinyl
     song:
@@ -27,8 +27,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Mad Heads XL – Пробки)
   id: BrbrCdDiskMadHeadsXLProbky
+  name: компакт-диск (Mad Heads XL – Пробки)
   components:
   - type: Vinyl
     song:
@@ -36,8 +36,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (DZIDZIO – Павук)
   id: BrbrCdDiskDZIDZIOPavuk
+  name: компакт-диск (DZIDZIO – Павук)
   components:
   - type: Vinyl
     song:
@@ -45,8 +45,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (SadSvit – Касета)
   id: BrbrCdDiskSadSvitKaseta
+  name: компакт-диск (SadSvit – Касета)
   components:
   - type: Vinyl
     song:
@@ -54,8 +54,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (VERKA SERDUCHKA – Гоп-Гоп-Гоп)
   id: BrbrCdDiskVERKASERDUCHKAHopHopHop
+  name: компакт-диск (VERKA SERDUCHKA – Гоп-Гоп-Гоп)
   components:
   - type: Vinyl
     song:
@@ -63,8 +63,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (ZWYNTAR – Танцюй І Пий)
   id: BrbrCdDiskZWYNTARTantsiuiIPyy
+  name: компакт-диск (ZWYNTAR – Танцюй І Пий)
   components:
   - type: Vinyl
     song:
@@ -72,8 +72,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (ТІК – Алкоголізм)
   id: BrbrCdDiskAlhololizm
+  name: компакт-диск (ТІК – Алкоголізм)
   components:
   - type: Vinyl
     song:
@@ -81,8 +81,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Жадан і Собаки – Бухло)
   id: BrbrCdDiskBukhloDeluxe
+  name: компакт-диск (Жадан і Собаки – Бухло)
   components:
   - type: Vinyl
     song:
@@ -90,8 +90,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (VERKA SERDUCHKA – Lasha-Tumbai)
   id: BrbrCdDiskVerkaSerdiuchkaLashaTumbai
+  name: компакт-диск (VERKA SERDUCHKA – Lasha-Tumbai)
   components:
   - type: Vinyl
     song:
@@ -99,8 +99,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (ТНМК – Восени)
   id: BrbrCdDiskVoseny
+  name: компакт-диск (ТНМК – Восени)
   components:
   - type: Vinyl
     song:
@@ -108,8 +108,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Мотор'Ролла – Восьмий колір)
   id: BrbrCdDiskVosmyiKolir
+  name: компакт-диск (Мотор'Ролла – Восьмий колір)
   components:
   - type: Vinyl
     song:
@@ -117,8 +117,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (П. Чубинський та М. Вербицький у виконанні О. Панамарьова – Гімн України)
   id: BrbrCdDiskHimnUkrainyOleksandrPonomarov
+  name: компакт-диск (П. Чубинський та М. Вербицький у виконанні О. Панамарьова – Гімн України)
   components:
   - type: Vinyl
     song:
@@ -126,8 +126,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (ВІЙ – Йшов я небом)
   id: BrbrCdDiskYshovYaNebom
+  name: компакт-диск (ВІЙ – Йшов я небом)
   components:
   - type: Vinyl
     song:
@@ -135,8 +135,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (ВІА Квартирник – Катерина)
   id: BrbrCdDiskKaterynaVIAKvartyrnyk
+  name: компакт-диск (ВІА Квартирник – Катерина)
   components:
   - type: Vinyl
     song:
@@ -144,8 +144,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Жадан і Собаки – Кобзон)
   id: BrbrCdDiskKobzonDeluxe
+  name: компакт-диск (Жадан і Собаки – Кобзон)
   components:
   - type: Vinyl
     song:
@@ -153,8 +153,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Жадан і Собаки – Мальви)
   id: BrbrCdDiskMalvyDeluxe
+  name: компакт-диск (Жадан і Собаки – Мальви)
   components:
   - type: Vinyl
     song:
@@ -162,8 +162,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Мотор'Ролла – Не дзвонила, не заходила)
   id: BrbrCdDiskNeDzvonylaNeZakhodyla
+  name: компакт-диск (Мотор'Ролла – Не дзвонила, не заходила)
   components:
   - type: Vinyl
     song:
@@ -171,8 +171,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (LIL OLKO – Ой, хто п'є, тому наливайте)
   id: BrbrCdDiskOyKhtoPieTomuNalyvayteGachiRemix
+  name: компакт-диск (LIL OLKO – Ой, хто п'є, тому наливайте)
   components:
   - type: Vinyl
     song:
@@ -180,8 +180,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Кузьма Скрябін – Кольорова)
   id: BrbrCdDiskSkriabinKolorova
+  name: компакт-диск (Кузьма Скрябін – Кольорова)
   components:
   - type: Vinyl
     song:
@@ -189,8 +189,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Володимир Івасюк – Червона рута)
   id: BrbrCdDiskChervonaRuta
+  name: компакт-диск (Володимир Івасюк – Червона рута)
   components:
   - type: Vinyl
     song:
@@ -198,8 +198,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Юркеш – Мундіаль)
   id: BrbrCdDiskYurkeshMundial
+  name: компакт-диск (Юркеш – Мундіаль)
   components:
   - type: Vinyl
     song:
@@ -207,8 +207,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Український повстанський рух – Гей гу, гей га)
   id: BrbrCdDiskHeyHuHeyHa
+  name: компакт-диск (Український повстанський рух – Гей гу, гей га)
   components:
   - type: Vinyl
     song:
@@ -216,8 +216,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (DOROFEEVA & POSITIFF – Смак-печаль)
   id: BrbrCdDiskSmakPechal
+  name: компакт-диск (DOROFEEVA & POSITIFF – Смак-печаль)
   components:
   - type: Vinyl
     song:
@@ -225,8 +225,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Океан Ельзи – На лінії вогню)
   id: BrbrCdDiskOkeanElzyNaLiniiVohnyu
+  name: компакт-диск (Океан Ельзи – На лінії вогню)
   components:
   - type: Vinyl
     song:
@@ -234,8 +234,8 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Бумбокс – Бета-каротин)
   id: BrbrCdDiskBetaKarotyn
+  name: компакт-диск (Бумбокс – Бета-каротин)
   components:
   - type: Vinyl
     song:
@@ -243,9 +243,36 @@
 
 - type: entity
   parent: BrbrBaseCdDisk
-  name: компакт-диск (Павло Зібров – День Народження)
   id: BrbrCdDiskPavloZibrovDenNarodzhennya
+  name: компакт-диск (Павло Зібров – День Народження)
   components:
   - type: Vinyl
     song:
       path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Павло Зібров - День Народження.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  id: BrbrCdDiskKomuVnyzMamay
+  name: компакт-диск (КОМУ ВНИЗ – Мамай)
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/КОМУ ВНИЗ _Мамай.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  id: BrbrCdDiskPyriatynArta
+  name: компакт-диск (Пирятин – Арта)
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Пирятин - Арта.ogg"
+
+- type: entity
+  parent: BrbrBaseCdDisk
+  id: BrbrCdDiskSofiyaRotaruOdnaKalyna
+  name: компакт-диск (Софія Ротару – Одна Калина)
+  components:
+  - type: Vinyl
+    song:
+      path: "/Audio/_Cheeburbr/Jukebox/Ukrainian/Софія Ротару Одна Калина.ogg"
